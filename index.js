@@ -15,20 +15,25 @@ import PpvWtfAutomationRunnerService from "./src/services/ppv-wtf-automation-run
     `PPV WTF Automation function execution started at: ${formatInTimeZone(new Date(), "America/New_York", "yyyy-MM-dd'T'HH:mm:ssxxx")}`,
   );
 
-  const apiService = new ApiService(axios, "https://ppv.wtf/api");
-  const jsonToM3uService = new JsonToM3uService();
-  const fileService = new FileService(fs, path);
-  const githubService = new GithubService({ fs, path, exec });
-  const ppvWtfAutomationRunnerService = new PpvWtfAutomationRunnerService(
-    apiService,
-    jsonToM3uService,
-    fileService,
-    githubService,
-  );
+  try {
+    const apiService = new ApiService(axios, "https://ppv.wtf/api");
+    const jsonToM3uService = new JsonToM3uService();
+    const fileService = new FileService(fs, path);
+    const githubService = new GithubService({ fs, path, exec });
+    const ppvWtfAutomationRunnerService = new PpvWtfAutomationRunnerService(
+      apiService,
+      jsonToM3uService,
+      fileService,
+      githubService,
+    );
 
-  await ppvWtfAutomationRunnerService.run();
-
-  console.log(
-    `PPV WTF Automation function execution finished at: ${formatInTimeZone(new Date(), "America/New_York", "yyyy-MM-dd'T'HH:mm:ssxxx")}`,
-  );
+    await ppvWtfAutomationRunnerService.run();
+  } catch (error) {
+    console.error("❌ Error during automation:", error);
+    throw error;
+  } finally {
+    console.log(
+      `PPV WTF Automation function execution finished at: ${formatInTimeZone(new Date(), "America/New_York", "yyyy-MM-dd'T'HH:mm:ssxxx")}`,
+    );
+  }
 })();
