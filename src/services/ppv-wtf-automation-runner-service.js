@@ -7,14 +7,44 @@ export default class PpvWtfAutomationRunnerService {
   }
 
   async run() {
-    const ppvWtfJsonFile = await this.apiService.getStreams();
-    const stream = await this.apiService.getStreamById(ppvWtfJsonFile[0]);
-    console.log(stream);
-    const m3uFile = this.jsonToM3uService.convert(ppvWtfJsonFile);
-    console.log(m3uFile);
+    const json = await this.apiService.getStreams();
+    const enrichedStreams = await this.fetchEnrichedStreams(
+      json,
+      this.apiService.getStreamById.bind(this.apiService)
+    );
+
+    const m3uFile = this.jsonToM3uService.convert(enrichedStreams);
     const m3uFilePath = this.fileService.saveM3uToProjectFolder(m3uFile);
-    const githubReponse =
-      await this.githubService.commitAndPushToGithub(m3uFilePath);
-    return githubReponse;
+
+    const githubResponse = await this.githubService.commitAndPushToGithub(m3uFilePath);
+    return githubResponse;
+  }
+
+  async fetchEnrichedStreams(json, getStreamById) {
+    if (!json?.streams) return [];
+
+    const enrichedStreams = [];
+
+    for (const category of json.streams) {
+      for (const stream of category.streams) {
+        try {
+          const detailed = await getStreamById(stream.id);
+          if (detailed?.data?.m3u8) {
+            enrichedStreams.push({
+              id: stream.id,
+              name: stream.name,
+              tag: stream.tag,
+              poster: stream.poster,
+              category_name: stream.category_name,
+              m3u8: detailed.data.m3u8,
+            });
+          }
+        } catch (error) {
+          console.warn(`Failed to enrich stream ${stream.id}`, error);
+        }
+      }
+    }
+
+    return enrichedStreams;
   }
 }
