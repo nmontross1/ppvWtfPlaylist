@@ -15,4 +15,8 @@ export default class ApiService {
   async getStreams() {
     return await this.executeApiRequest("/streams");
   }
+
+  async getStreamById(id) {
+    return await this.executeApiRequest(`/streams/${id}`);
+  }
 }

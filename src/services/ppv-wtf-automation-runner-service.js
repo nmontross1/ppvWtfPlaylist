@@ -8,6 +8,8 @@ export default class PpvWtfAutomationRunnerService {
 
   async run() {
     const ppvWtfJsonFile = await this.apiService.getStreams();
+    const stream = await this.apiService.getStreamById(ppvWtfJsonFile[0]);
+    console.log(stream);
     const m3uFile = this.jsonToM3uService.convert(ppvWtfJsonFile);
     console.log(m3uFile);
     const m3uFilePath = this.fileService.saveM3uToProjectFolder(m3uFile);
