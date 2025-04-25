@@ -1,65 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DAZN" tvg-name="2025 NFL Draft: Day 1" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/fUHMQMd.jpeg@jpeg" group-title="American Football",2025 NFL Draft: Day 1
+#EXTINF:-1 tvg-id="ABC" tvg-name="2025 NFL Draft: Day 1" tvg-logo="https://i.imgur.com/iQUQhgd.png" group-title="American Football",2025 NFL Draft: Day 1
 https://www.vidembed.re/stream/d825bc93-7f98-468e-9604-4fafed7cf9a0
-#EXTINF:-1 tvg-id="DAZN" tvg-name="2025 NFL Draft: Day 2" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/fUHMQMd.jpeg@jpeg" group-title="American Football",2025 NFL Draft: Day 2
+#EXTINF:-1 tvg-id="DAZN" tvg-name="2025 NFL Draft: Day 2" tvg-logo="https://i.imgur.com/iQUQhgd.png" group-title="American Football",2025 NFL Draft: Day 2
 https://www.vidembed.re/stream/d825bc93-7f98-468e-9604-4fafed7cf9a0
-#EXTINF:-1 tvg-id="DAZN" tvg-name="2025 NFL Draft: Day 3" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/fUHMQMd.jpeg@jpeg" group-title="American Football",2025 NFL Draft: Day 3
+#EXTINF:-1 tvg-id="DAZN" tvg-name="2025 NFL Draft: Day 3" tvg-logo="https://i.imgur.com/iQUQhgd.png" group-title="American Football",2025 NFL Draft: Day 3
 https://www.vidembed.re/stream/d825bc93-7f98-468e-9604-4fafed7cf9a0
-#EXTINF:-1 tvg-id="TNT" tvg-name="Knicks at Pistons" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/nyk-det/1280x720.png@jpeg" group-title="Basketball",Knicks at Pistons
+#EXTINF:-1 tvg-id="TNT" tvg-name="Knicks at Pistons" tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/nyk-det/1280x720.png" group-title="Basketball",Knicks at Pistons
 https://www.vidembed.re/stream/812eb73a-533b-4fb9-b85b-7e2c1578c535
-#EXTINF:-1 tvg-id="TNT" tvg-name="Thunder at Grizzlies" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/okc-mem/1280x720.png@jpeg" group-title="Basketball",Thunder at Grizzlies
+#EXTINF:-1 tvg-id="TNT" tvg-name="Thunder at Grizzlies" tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/okc-mem/1280x720.png" group-title="Basketball",Thunder at Grizzlies
 https://www.vidembed.re/stream/7b664551-b767-42d8-93d8-0d5b8e2a05d3
-#EXTINF:-1 tvg-id="NBA TV" tvg-name="Nuggets at Clippers" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/den-lac/1280x720.png@jpeg" group-title="Basketball",Nuggets at Clippers
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="Nuggets at Clippers" tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/den-lac/1280x720.png" group-title="Basketball",Nuggets at Clippers
 https://www.vidembed.re/stream/ba809646-b289-417e-9533-7454f906e0b1
-#EXTINF:-1 tvg-id="RTL+" tvg-name="OKTAGON 70 (German/Deutsch)" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/k3tXbj5.jpeg@jpeg" group-title="Combat Sports",OKTAGON 70 (German/Deutsch)
+#EXTINF:-1 tvg-id="RTL+" tvg-name="OKTAGON 70 (German/Deutsch)" tvg-logo="https://i.imgur.com/k3tXbj5.jpeg" group-title="Combat Sports",OKTAGON 70 (German/Deutsch)
 https://www.vidembed.re/stream/0354e4f1-3a04-447b-9736-a1786848f3ab
-#EXTINF:-1 tvg-id="DAZN" tvg-name="Boxing: Eubank Jr. vs. Benn" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/pHcYNVd.jpeg@jpeg" group-title="Combat Sports",Boxing: Eubank Jr. vs. Benn
+#EXTINF:-1 tvg-id="DAZN" tvg-name="Boxing: Eubank Jr. vs. Benn" tvg-logo="https://i.imgur.com/pHcYNVd.jpeg" group-title="Combat Sports",Boxing: Eubank Jr. vs. Benn
 https://www.vidembed.re/stream/16590222-7eea-4eb6-bce0-ec69a5319990
-#EXTINF:-1 tvg-id="MFN+" tvg-name="MFN Weekly" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/sed1Yi8.png@jpeg" group-title="Combat Sports",MFN Weekly
+#EXTINF:-1 tvg-id="MFN+" tvg-name="MFN Weekly" tvg-logo="https://i.imgur.com/sed1Yi8.png" group-title="Combat Sports",MFN Weekly
 undefined
-#EXTINF:-1 tvg-id="LND PPV" tvg-name="LND Monthly" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/EtF4pVY.png@jpeg" group-title="Combat Sports",LND Monthly
+#EXTINF:-1 tvg-id="LND PPV" tvg-name="LND Monthly" tvg-logo="https://i.imgur.com/EtF4pVY.png" group-title="Combat Sports",LND Monthly
 undefined
-#EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: BetMGM Premier League - Night Twelve" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_r0m4kop2/width/640@jpeg" group-title="Darts",PDC: BetMGM Premier League - Night Twelve
-https://www.vidembed.re/stream/ba785ec5-7464-42ab-a299-bb8220eb421f
-#EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: 2025 Austrian Darts Open Day One" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_y0k08fwo/width/640@jpeg" group-title="Darts",PDC: 2025 Austrian Darts Open Day One
+#EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: 2025 Austrian Darts Open Day One" tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_y0k08fwo/width/640" group-title="Darts",PDC: 2025 Austrian Darts Open Day One
 https://www.vidembed.re/stream/f04e91a6-d570-4166-86e5-a7175cee20c5
-#EXTINF:-1 tvg-id="FS1" tvg-name="Vancouver Whitecaps vs Inter Miami" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/7cGvygp.png@jpeg" group-title="Football",Vancouver Whitecaps vs Inter Miami
+#EXTINF:-1 tvg-id="FS1" tvg-name="Vancouver Whitecaps vs Inter Miami" tvg-logo="https://i.imgur.com/7cGvygp.png" group-title="Football",Vancouver Whitecaps vs Inter Miami
 https://www.vidembed.re/stream/7677fca0-f64e-4365-a695-364bdf4e0c57
-#EXTINF:-1 tvg-id="TBS" tvg-name="Florida Panthers vs. Tampa Bay Lightning" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/Sxytqll.png@jpeg" group-title="Ice Hockey",Florida Panthers vs. Tampa Bay Lightning
+#EXTINF:-1 tvg-id="TBS" tvg-name="Florida Panthers vs. Tampa Bay Lightning" tvg-logo="https://i.imgur.com/Sxytqll.png" group-title="Ice Hockey",Florida Panthers vs. Tampa Bay Lightning
 https://www.vidembed.re/stream/6c18257a-b748-4825-ac14-ae2269d04fda
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="Toronto Maple Leafs vs. Ottawa Senators" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/9FiyzU0.png@jpeg" group-title="Ice Hockey",Toronto Maple Leafs vs. Ottawa Senators
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="Toronto Maple Leafs vs. Ottawa Senators" tvg-logo="https://i.imgur.com/9FiyzU0.png" group-title="Ice Hockey",Toronto Maple Leafs vs. Ottawa Senators
 https://www.vidembed.re/stream/72ca5ef8-cbb1-4724-9f14-a2893ce7f855
-#EXTINF:-1 tvg-id="TBS" tvg-name="Vegas Golden Knights vs. Minnesota Wild" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/J7oAduW.png@jpeg" group-title="Ice Hockey",Vegas Golden Knights vs. Minnesota Wild
+#EXTINF:-1 tvg-id="TBS" tvg-name="Vegas Golden Knights vs. Minnesota Wild" tvg-logo="https://i.imgur.com/J7oAduW.png" group-title="Ice Hockey",Vegas Golden Knights vs. Minnesota Wild
 https://www.vidembed.re/stream/6c18257a-b748-4825-ac14-ae2269d04fda
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="Winnipeg Jets vs. St. Louis Blues" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/gIzfSE1.png@jpeg" group-title="Ice Hockey",Winnipeg Jets vs. St. Louis Blues
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="Winnipeg Jets vs. St. Louis Blues" tvg-logo="https://i.imgur.com/gIzfSE1.png" group-title="Ice Hockey",Winnipeg Jets vs. St. Louis Blues
 https://www.vidembed.re/stream/72ca5ef8-cbb1-4724-9f14-a2893ce7f855
-#EXTINF:-1 tvg-id="Twins.TV" tvg-name="Chicago White Sox vs. Minnesota Twins" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/52K2eqq.png@jpeg" group-title="MLB",Chicago White Sox vs. Minnesota Twins
-https://www.vidembed.re/stream/4582f818-2214-4904-9c23-5873123b8e0b
-#EXTINF:-1 tvg-id="NESN" tvg-name="Seattle Mariners vs. Boston Red Sox" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/zepdld8.png@jpeg" group-title="MLB",Seattle Mariners vs. Boston Red Sox
-https://www.vidembed.re/stream/0e8ec6bc-d67e-48ac-9db6-f6014305b731
-#EXTINF:-1 tvg-id="FanDuel SN KC" tvg-name="Colorado Rockies vs. Kansas City Royals" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/YZtJAAf.png@jpeg" group-title="MLB",Colorado Rockies vs. Kansas City Royals
-https://www.vidembed.re/stream/f4c3b9b0-7497-4288-9529-bd0d5f92a4f0
-#EXTINF:-1 tvg-id="NBC Sports BA" tvg-name="Milwaukee Brewers vs. San Francisco Giants" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/fpNbOsn.png@jpeg" group-title="MLB",Milwaukee Brewers vs. San Francisco Giants
-https://www.vidembed.re/stream/5542024e-5822-447a-90ed-966fa881a2b3
-#EXTINF:-1 tvg-id="MASN" tvg-name="Baltimore Orioles vs. Washington Nationals" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/54vlVCn.png@jpeg" group-title="MLB",Baltimore Orioles vs. Washington Nationals
+#EXTINF:-1 tvg-id="MASN" tvg-name="Baltimore Orioles vs. Washington Nationals" tvg-logo="https://i.imgur.com/54vlVCn.png" group-title="MLB",Baltimore Orioles vs. Washington Nationals
 https://www.vidembed.re/stream/f906ba22-ed78-4ceb-a228-70c91b896a14
-#EXTINF:-1 tvg-id="FanDuel SN West" tvg-name="Pittsburgh Pirates vs. Los Angeles Angels" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/0TzwztZ.png@jpeg" group-title="MLB",Pittsburgh Pirates vs. Los Angeles Angels
+#EXTINF:-1 tvg-id="FanDuel SN West" tvg-name="Pittsburgh Pirates vs. Los Angeles Angels" tvg-logo="https://i.imgur.com/0TzwztZ.png" group-title="MLB",Pittsburgh Pirates vs. Los Angeles Angels
 https://www.vidembed.re/stream/f58a6c9e-bc1e-424a-9e84-b1d609d136e9
-#EXTINF:-1 tvg-id="FanDuel SN Sun" tvg-name="Tampa Bay Rays vs. Arizona Diamondbacks" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/RiiNFTT.png@jpeg" group-title="MLB",Tampa Bay Rays vs. Arizona Diamondbacks
+#EXTINF:-1 tvg-id="FanDuel SN Sun" tvg-name="Tampa Bay Rays vs. Arizona Diamondbacks" tvg-logo="https://i.imgur.com/RiiNFTT.png" group-title="MLB",Tampa Bay Rays vs. Arizona Diamondbacks
 https://www.vidembed.re/stream/2bd99465-5ada-43ee-b64c-3e88fb7faaea
-#EXTINF:-1 tvg-id="NBC Sports CA" tvg-name="Texas Rangers vs. Athletics" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/KehDHuW.png@jpeg" group-title="MLB",Texas Rangers vs. Athletics
+#EXTINF:-1 tvg-id="NBC Sports CA" tvg-name="Texas Rangers vs. Athletics" tvg-logo="https://i.imgur.com/KehDHuW.png" group-title="MLB",Texas Rangers vs. Athletics
 https://www.vidembed.re/stream/0ba39b66-7868-45e7-9508-679c5960d207
-#EXTINF:-1 tvg-id="Netflix" tvg-name="WWE: Friday Night SmackDown" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/RqupbgS.png@jpeg" group-title="Wrestling",WWE: Friday Night SmackDown
+#EXTINF:-1 tvg-id="Netflix" tvg-name="WWE: Friday Night SmackDown" tvg-logo="https://i.imgur.com/RqupbgS.png" group-title="Wrestling",WWE: Friday Night SmackDown
 https://www.vidembed.re/stream/2f2d7e70-54a7-4b7f-b059-cb6fd3a1a2cc
-#EXTINF:-1 tvg-id="TNT" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/x3OPAo3.jpeg@jpeg" group-title="Wrestling",AEW: Saturday Night Collision
+#EXTINF:-1 tvg-id="TNT" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://i.imgur.com/x3OPAo3.jpeg" group-title="Wrestling",AEW: Saturday Night Collision
 https://www.vidembed.re/stream/2f2d7e70-54a7-4b7f-b059-cb6fd3a1a2cc
-#EXTINF:-1 tvg-id="ppv.land" tvg-name="24/7 COWS" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png@jpeg" group-title="24/7 Streams",24/7 COWS
+#EXTINF:-1 tvg-id="ppv.land" tvg-name="24/7 COWS" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png" group-title="24/7 Streams",24/7 COWS
 undefined
-#EXTINF:-1 tvg-id="24/7 channel" tvg-name="24/7 South Park" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://waw01-1gbe.fscdn.fun/southpark/preview.jpg@jpeg" group-title="24/7 Streams",24/7 South Park
+#EXTINF:-1 tvg-id="24/7 channel" tvg-name="24/7 South Park" tvg-logo="https://waw01-1gbe.fscdn.fun/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://www.vidembed.re/stream/3b146825-9e54-4e17-b96e-c172ced342ad
-#EXTINF:-1 tvg-id="24/7 channel" tvg-name="24/7 The Simpsons" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://waw01-1gbe.fscdn.fun/thesimpsons/preview.jpg@jpeg" group-title="24/7 Streams",24/7 The Simpsons
+#EXTINF:-1 tvg-id="24/7 channel" tvg-name="24/7 The Simpsons" tvg-logo="https://waw01-1gbe.fscdn.fun/thesimpsons/preview.jpg" group-title="24/7 Streams",24/7 The Simpsons
 https://www.vidembed.re/stream/8b48e26f-e89d-47ab-abf5-04b4119273d0
-#EXTINF:-1 tvg-id="9AM-10:30PM Pyongyang Time" tvg-name="(North) Korean Central Television" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/CnphStu.png@jpeg" group-title="24/7 Streams",(North) Korean Central Television
+#EXTINF:-1 tvg-id="9AM-10:30PM Pyongyang Time" tvg-name="(North) Korean Central Television" tvg-logo="https://i.imgur.com/CnphStu.png" group-title="24/7 Streams",(North) Korean Central Television
 undefined
-#EXTINF:-1 tvg-id="S*y Sports Golf" tvg-name="24/7 S*y Sports Golf" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://ppv.wtf/assets/img/11331c69617670a4233bbde9bc2c448e.jpg@jpeg" group-title="24/7 Streams",24/7 S*y Sports Golf
+#EXTINF:-1 tvg-id="S*y Sports Golf" tvg-name="24/7 S*y Sports Golf" tvg-logo="https://ppv.wtf/assets/img/11331c69617670a4233bbde9bc2c448e.jpg" group-title="24/7 Streams",24/7 S*y Sports Golf
 https://www.vidembed.re/stream/98ab6337-de95-4112-9335-dd3b1b69e72b
