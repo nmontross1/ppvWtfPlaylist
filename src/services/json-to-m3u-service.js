@@ -6,8 +6,10 @@ export default class JsonToM3uService {
 
     enrichedStreams.forEach((stream) => {
       const { name, tag, poster, m3u8, category_name } = stream;
+      const cleanM3u8 = m3u8.replace(/\\\//g, "/");
+
       m3u += `#EXTINF:-1 tvg-id="${tag}" tvg-name="${name}" tvg-logo="${poster}" group-title="${category_name}",${name}\n`;
-      m3u += `${m3u8}\n`;
+      m3u += `${cleanM3u8}\n`;
     });
 
     return m3u;

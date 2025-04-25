@@ -7,10 +7,10 @@ export default class FileService {
   /**
    * Saves M3U content to the M3U File folder.
    * @param {string} content - M3U playlist content.
-   * @param {string} filename - The file name (e.g., 'playlist.m3u').
+   * @param {string} filename - The file name (e.g., 'playlist.m3u8').
    * @returns {string} Full path to the saved file.
    */
-  saveM3uToProjectFolder(content, filename = "playlist.m3u") {
+  saveM3uToProjectFolder(content, filename = "playlist.m3u8") {
     const dir = this.path.resolve(
       `/Users/montrossmac/ppv-wtf-automation/m3uFile`,
     );
