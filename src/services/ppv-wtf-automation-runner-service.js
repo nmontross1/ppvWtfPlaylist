@@ -13,7 +13,7 @@ export default class PpvWtfAutomationRunnerService {
       this.apiService.getStreamById.bind(this.apiService)
     );
 
-    const m3uFile = this.jsonToM3uService.convert(enrichedStreams);
+    const m3uFile = await this.jsonToM3uService.convert(enrichedStreams);
     const m3uFilePath = this.fileService.saveM3uToProjectFolder(m3uFile);
 
     const githubResponse = await this.githubService.commitAndPushToGithub(m3uFilePath);
