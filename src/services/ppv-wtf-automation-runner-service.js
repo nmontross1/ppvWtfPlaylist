@@ -33,11 +33,9 @@ export default class PpvWtfAutomationRunnerService {
           if (detailed?.data?.m3u8) {
             let m3u8Url = detailed.data.m3u8;
             
-            // Check if the URL contains the 'expires' query parameter
             const url = new URL(m3u8Url);
             const expires = url.searchParams.get('expires');
-            
-            // If 'expires' exists and is expired, remove it
+ 
             if (expires && parseInt(expires) < Math.floor(Date.now() / 1000)) {
               url.searchParams.delete('expires');
               m3u8Url = url.toString();
