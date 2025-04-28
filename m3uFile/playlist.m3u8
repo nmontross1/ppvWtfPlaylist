@@ -1,39 +1,77 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TNT" tvg-name="Cavaliers at Heat" tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/cle-mia/1280x720.png" group-title="Basketball",Cavaliers at Heat
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NWM2MjUyODhlOGNmLTI2YjgtOTY3NC0xOTkzLTk2MzI5ZDBk/master.m3u8?md5=KvxgSaw4kNUVSJBOehI_oQ&expires=1745892900&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NWM2MjUyODhlOGNmLTI2YjgtOTY3NC0xOTkzLTk2MzI5ZDBk/master.m3u8?md5=KvxgSaw4kNUVSJBOehI_oQ&expires=1745892900&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="TNT" tvg-name="Rockets at Warriors" tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/hou-gsw/1280x720.png" group-title="Basketball",Rockets at Warriors
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTRiNGZkMDY4MmQxLWY3YzgtZGVhNC0xMTNkLTRkYTg4MGFh/master.m3u8?md5=TNJM6gfx-3XUfCvsqDxW4w&expires=1745901900&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTRiNGZkMDY4MmQxLWY3YzgtZGVhNC0xMTNkLTRkYTg4MGFh/master.m3u8?md5=TNJM6gfx-3XUfCvsqDxW4w&expires=1745901900&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="MFN+" tvg-name="MFN Weekly" tvg-logo="https://i.imgur.com/sed1Yi8.png" group-title="Combat Sports",MFN Weekly
-https://vod.ppv.wtf/mfn/index.m3u8?md5=ad83Q0--gpjVkGO62kkRPA&expires=1746338400&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://vod.ppv.wtf/mfn/index.m3u8?md5=ad83Q0--gpjVkGO62kkRPA&expires=1746338400&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="LND PPV" tvg-name="LND Monthly" tvg-logo="https://i.imgur.com/EtF4pVY.png" group-title="Combat Sports",LND Monthly
-https://vod.ppv.wtf/lnd/index.m3u8?md5=VGRtKolyXcE1uyUiTBmeFQ&expires=1747548000&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://vod.ppv.wtf/lnd/index.m3u8?md5=VGRtKolyXcE1uyUiTBmeFQ&expires=1747548000&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="Sky Sports Football" tvg-name="EFL: Leeds vs Bristol City" tvg-logo="https://i.imgur.com/9rdRHL2.jpeg" group-title="Football",EFL: Leeds vs Bristol City
-https://gg.poocloud.in/leeds/index.m3u8?md5=XZ4Uosy8T9G9IvsDkmtL7g&expires=1745875800&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://gg.poocloud.in/leeds/index.m3u8?md5=XZ4Uosy8T9G9IvsDkmtL7g&expires=1745875800&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="ESPN" tvg-name="Tampa Bay Lightning vs. Florida Panthers" tvg-logo="https://i.imgur.com/NoY41q9.png" group-title="Ice Hockey",Tampa Bay Lightning vs. Florida Panthers
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=HdK2QJuyqFJ9WayOSrBaMg&expires=1745892000&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=HdK2QJuyqFJ9WayOSrBaMg&expires=1745892000&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="ESPN" tvg-name="Colorado Avalanche vs. Dallas Stars" tvg-logo="https://i.imgur.com/7j8EI1G.png" group-title="Ice Hockey",Colorado Avalanche vs. Dallas Stars
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=L7zH4MM87BjLFEZJzXJcow&expires=1745901000&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=L7zH4MM87BjLFEZJzXJcow&expires=1745901000&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="MASN2" tvg-name="New York Mets vs. Washington Nationals" tvg-logo="https://i.imgur.com/QEy9E4R.png" group-title="MLB",New York Mets vs. Washington Nationals
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NDFhNjk4YjE5YzA3LTgyMmEtYmVjNC04N2RlLTIyYWI2MDlm/master.m3u8?md5=PvmXkZBdm_a6TqZma25jcA&expires=1745881500&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NDFhNjk4YjE5YzA3LTgyMmEtYmVjNC04N2RlLTIyYWI2MDlm/master.m3u8?md5=PvmXkZBdm_a6TqZma25jcA&expires=1745881500&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="Twins.TV" tvg-name="Minnesota Twins vs. Cleveland Guardians" tvg-logo="https://i.imgur.com/loTnW7h.png" group-title="MLB",Minnesota Twins vs. Cleveland Guardians
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY2OTdiZGE1YjJjLTMzODgtNTY3NC0yMjI3LTg3YWM0ZDRm/master.m3u8?md5=AKXBcbuVcrx_JFRp-Hs3Tw&expires=1745889000&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY2OTdiZGE1YjJjLTMzODgtNTY3NC0yMjI3LTg3YWM0ZDRm/master.m3u8?md5=AKXBcbuVcrx_JFRp-Hs3Tw&expires=1745889000&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="MASN" tvg-name="New York Yankees vs. Baltimore Orioles" tvg-logo="https://i.imgur.com/fi69DHh.png" group-title="MLB",New York Yankees vs. Baltimore Orioles
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmM0NzVlNjM1NTY0LWFjZWEtZDI4NC1kZjllLWVjZDc3N2E4/master.m3u8?md5=AsloQd8lG3o_VnaSLPe3Mw&expires=1745890500&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmM0NzVlNjM1NTY0LWFjZWEtZDI4NC1kZjllLWVjZDc3N2E4/master.m3u8?md5=AsloQd8lG3o_VnaSLPe3Mw&expires=1745890500&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="FanDuel SN MW" tvg-name="St. Louis Cardinals vs. Cincinnati Reds" tvg-logo="https://i.imgur.com/elCkhVF.png" group-title="MLB",St. Louis Cardinals vs. Cincinnati Reds
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmZlYmFjYzI2MDc1LWYzZjktNjk3NC1lZDRhLTg5MDQ1NDU4/master.m3u8?md5=JWzLsgdo8jVg8uiDZOQopw&expires=1745890800&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmZlYmFjYzI2MDc1LWYzZjktNjk3NC1lZDRhLTg5MDQ1NDU4/master.m3u8?md5=JWzLsgdo8jVg8uiDZOQopw&expires=1745890800&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="Rangers Sports Network" tvg-name="Athletics vs. Texas Rangers" tvg-logo="https://i.imgur.com/1Is6XQ5.png" group-title="MLB",Athletics vs. Texas Rangers
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTUxZDg4MGIwYjVhLWNjZDktY2EwNC01ODA5LTZkOTViMDE5/master.m3u8?md5=O9DTC2cH-obNMjB-Yn4mYQ&expires=1745895900&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTUxZDg4MGIwYjVhLWNjZDktY2EwNC01ODA5LTZkOTViMDE5/master.m3u8?md5=O9DTC2cH-obNMjB-Yn4mYQ&expires=1745895900&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="FanDuel SN DET" tvg-name="Detroit Tigers vs. Houston Astros" tvg-logo="https://i.imgur.com/5FNRejY.png" group-title="MLB",Detroit Tigers vs. Houston Astros
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGEzZjZhMzYwNTQ3LTU4OWEtYmY1NC1hMTYzLTRiODA1MWZl/master.m3u8?md5=qqhH50ViMgniV5TnAT-TxQ&expires=1745896200&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGEzZjZhMzYwNTQ3LTU4OWEtYmY1NC1hMTYzLTRiODA1MWZl/master.m3u8?md5=qqhH50ViMgniV5TnAT-TxQ&expires=1745896200&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="Rockies.TV" tvg-name="Atlanta Braves vs. Colorado Rockies" tvg-logo="https://i.imgur.com/fOgqlXt.png" group-title="MLB",Atlanta Braves vs. Colorado Rockies
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjkxMmNmNWU0OGZmLTZlNDgtZTk0NC05ZjE1LTcwNTc0MTI4/master.m3u8?md5=nNumb3Xud4dv5Syy9aAtzg&expires=1745898000&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjkxMmNmNWU0OGZmLTZlNDgtZTk0NC05ZjE1LTcwNTc0MTI4/master.m3u8?md5=nNumb3Xud4dv5Syy9aAtzg&expires=1745898000&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="FanDuel SN FL" tvg-name="Miami Marlins vs. Los Angeles Dodgers" tvg-logo="https://i.imgur.com/xirPXy0.png" group-title="MLB",Miami Marlins vs. Los Angeles Dodgers
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OWUzMmMwNDYzMDRlLWI4MTktNTdhNC1kYTU5LTcwMDc3MTky/master.m3u8?md5=4gz0oLhEQFkpW-iOWm8b2A&expires=1745903400&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OWUzMmMwNDYzMDRlLWI4MTktNTdhNC1kYTU5LTcwMDc3MTky/master.m3u8?md5=4gz0oLhEQFkpW-iOWm8b2A&expires=1745903400&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="ppv.land" tvg-name="24/7 COWS" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png" group-title="24/7 Streams",24/7 COWS
-https://waw01-1gbe.fscdn.fun/cows/index.m3u8?md5=QmS032QVGAmZ63SiIQ4NmQ&expires=1740772800&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://waw01-1gbe.fscdn.fun/cows/index.m3u8?md5=QmS032QVGAmZ63SiIQ4NmQ&expires=1740772800&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="24/7 channel" tvg-name="24/7 South Park" tvg-logo="https://waw01-1gbe.fscdn.fun/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=2QMwe9E3KCbJTZmz_RmGHw&expires=1737196080&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=2QMwe9E3KCbJTZmz_RmGHw&expires=1737196080&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="24/7 channel" tvg-name="24/7 The Simpsons" tvg-logo="https://waw01-1gbe.fscdn.fun/thesimpsons/preview.jpg" group-title="24/7 Streams",24/7 The Simpsons
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=2QMwe9E3KCbJTZmz_RmGHw&expires=1737196080&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=2QMwe9E3KCbJTZmz_RmGHw&expires=1737196080&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="9AM-10:30PM Pyongyang Time" tvg-name="(North) Korean Central Television" tvg-logo="https://i.imgur.com/CnphStu.png" group-title="24/7 Streams",(North) Korean Central Television
-https://waw01-1gbe.fscdn.fun/nknews/index.m3u8?md5=RAkqYBbUawsIEPA9CSibBw&expires=1737237600&net=MTczLjcxLjE2NS4xMzQ%3D|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://waw01-1gbe.fscdn.fun/nknews/index.m3u8?md5=RAkqYBbUawsIEPA9CSibBw&expires=1737237600&net=MTczLjcxLjE2NS4xMzQ%3D

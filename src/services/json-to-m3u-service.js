@@ -1,14 +1,16 @@
 export default class JsonToM3uService {
   async convert(jsonData) {
-    const headerString = '|Referer=https://ppv.wtf/&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F123.0.0.0%20Safari%2F537.36';
+    const referer = 'https://ppv.wtf/';
+    const userAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36';
     const lines = ['#EXTM3U'];
 
     for (const item of jsonData) {
       if (item.m3u8) {
-        const m3u8Url = item.m3u8 + headerString;
         const extinf = `#EXTINF:-1 tvg-id="${item.tag}" tvg-name="${item.name}" tvg-logo="${item.poster}" group-title="${item.category_name}",${item.name}`;
         lines.push(extinf);
-        lines.push(m3u8Url);
+        lines.push(`#EXTVLCOPT:http-referrer=${referer}`);
+        lines.push(`#EXTVLCOPT:http-user-agent=${userAgent}`);
+        lines.push(item.m3u8);
       }
     }
 
