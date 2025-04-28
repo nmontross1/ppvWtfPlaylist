@@ -11,9 +11,7 @@ export default class PpvWtfAutomationRunnerService {
     const enrichedStreams = await this.fetchEnrichedStreams(
       json,
       this.apiService.getStreamById.bind(this.apiService)
-    ); 
-
-      console.log(enrichedStreams);
+    );
 
     const m3uFile = await this.jsonToM3uService.convert(enrichedStreams);
     console.log(m3uFile);
@@ -25,21 +23,33 @@ export default class PpvWtfAutomationRunnerService {
 
   async fetchEnrichedStreams(json, getStreamById) {
     if (!json?.streams) return [];
-
+  
     const enrichedStreams = [];
-
+  
     for (const category of json.streams) {
       for (const stream of category.streams) {
         try {
           const detailed = await getStreamById(stream.id);
           if (detailed?.data?.m3u8) {
+            let m3u8Url = detailed.data.m3u8;
+            
+            // Check if the URL contains the 'expires' query parameter
+            const url = new URL(m3u8Url);
+            const expires = url.searchParams.get('expires');
+            
+            // If 'expires' exists and is expired, remove it
+            if (expires && parseInt(expires) < Math.floor(Date.now() / 1000)) {
+              url.searchParams.delete('expires');
+              m3u8Url = url.toString();
+            }
+  
             enrichedStreams.push({
               id: stream.id,
               name: stream.name,
               tag: stream.tag,
               poster: stream.poster,
               category_name: stream.category_name,
-              m3u8: detailed.data.m3u8,
+              m3u8: m3u8Url,
             });
           }
         } catch (error) {
@@ -47,7 +57,8 @@ export default class PpvWtfAutomationRunnerService {
         }
       }
     }
-
+  
     return enrichedStreams;
   }
+  
 }
