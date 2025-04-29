@@ -1,12 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TNT" tvg-name="Cavaliers at Heat" tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/cle-mia/1280x720.png" group-title="Basketball",Cavaliers at Heat
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="Bucks at Pacers" tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/mil-ind/1280x720.png" group-title="Basketball",Bucks at Pacers
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NWM2MjUyODhlOGNmLTI2YjgtOTY3NC0xOTkzLTk2MzI5ZDBk/master.m3u8?md5=KvxgSaw4kNUVSJBOehI_oQ&expires=1745892900&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="TNT" tvg-name="Rockets at Warriors" tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/hou-gsw/1280x720.png" group-title="Basketball",Rockets at Warriors
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmIzODJhNTBmNGZmLWRhOWEtMzYxNC0zYjBkLWI3NDUyODkz/master.m3u8?md5=3iw8qoU2C8Zvhiy6F8SONg&expires=1745973900&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="TNT" tvg-name="Pistons at Knicks" tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/det-nyk/1280x720.png" group-title="Basketball",Pistons at Knicks
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTRiNGZkMDY4MmQxLWY3YzgtZGVhNC0xMTNkLTRkYTg4MGFh/master.m3u8?md5=TNJM6gfx-3XUfCvsqDxW4w&expires=1745901900&net=MTczLjcxLjE2NS4xMzQ%3D
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmI0YTY4NDY0YTExLTY0N2ItYmVjNC04YmFlLTA2YmE0NTlk/master.m3u8?md5=rYs3a46bKe_l0kK3oVjLgQ&expires=1745979300&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="Magic at Celtics" tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/orl-bos/1280x720.png" group-title="Basketball",Magic at Celtics
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OWIxOTc5N2ZiOWJhLTExZjktYTg3NC0xMGU3LWUzYzViZjM2/master.m3u8?md5=5Rwp8m8PId-CJHf6DbZ2lA&expires=1745982900&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="TNT" tvg-name="Clippers at Nuggets" tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/lac-den/1280x720.png" group-title="Basketball",Clippers at Nuggets
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjVkNWYzNDFkZGVkLTg2Y2ItMWRiNC0zNjQxLTJhMGJiYmQy/master.m3u8?md5=ugxbua3r2ttp74ohm8SExw&expires=1745988300&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="MFN+" tvg-name="MFN Weekly" tvg-logo="https://i.imgur.com/sed1Yi8.png" group-title="Combat Sports",MFN Weekly
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
@@ -15,54 +23,90 @@ https://vod.ppv.wtf/mfn/index.m3u8?md5=ad83Q0--gpjVkGO62kkRPA&expires=1746338400
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://vod.ppv.wtf/lnd/index.m3u8?md5=VGRtKolyXcE1uyUiTBmeFQ&expires=1747548000&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="Sky Sports Football" tvg-name="EFL: Leeds vs Bristol City" tvg-logo="https://i.imgur.com/9rdRHL2.jpeg" group-title="Football",EFL: Leeds vs Bristol City
+#EXTINF:-1 tvg-id="Prime Video" tvg-name="UCL: Arsenal vs PSG (Prime Video)" tvg-logo="https://i.imgur.com/VXxOwsT.jpeg" group-title="Football",UCL: Arsenal vs PSG (Prime Video)
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://gg.poocloud.in/leeds/index.m3u8?md5=XZ4Uosy8T9G9IvsDkmtL7g&expires=1745875800&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Tampa Bay Lightning vs. Florida Panthers" tvg-logo="https://i.imgur.com/NoY41q9.png" group-title="Ice Hockey",Tampa Bay Lightning vs. Florida Panthers
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NGJmZTA4NGRmOTgzLTE0MWEtOWNmNC04N2RkLTliMGEzNjhl/master.m3u8?md5=h3FfLx5-iTcmcOHfVo4mIA&expires=1745964000&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="Paramount+" tvg-name="UCL: Arsenal vs PSG (CBS Sports)" tvg-logo="https://i.imgur.com/VXxOwsT.jpeg" group-title="Football",UCL: Arsenal vs PSG (CBS Sports)
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=HdK2QJuyqFJ9WayOSrBaMg&expires=1745892000&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Colorado Avalanche vs. Dallas Stars" tvg-logo="https://i.imgur.com/7j8EI1G.png" group-title="Ice Hockey",Colorado Avalanche vs. Dallas Stars
+https://gg.poocloud.in/cbsucl/index.m3u8?md5=h3FfLx5-iTcmcOHfVo4mIA&expires=1745964000&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Ottawa Senators vs. Toronto Maple Leafs" tvg-logo="https://i.imgur.com/t2PHspg.png" group-title="Ice Hockey",Ottawa Senators vs. Toronto Maple Leafs
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=L7zH4MM87BjLFEZJzXJcow&expires=1745901000&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="MASN2" tvg-name="New York Mets vs. Washington Nationals" tvg-logo="https://i.imgur.com/QEy9E4R.png" group-title="MLB",New York Mets vs. Washington Nationals
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=gVq4ED4lbhraUlqOXvGjOA&expires=1745978400&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="MSGSN" tvg-name="New Jersey Devils vs. Carolina Hurricanes" tvg-logo="https://i.imgur.com/rA9nUM0.png" group-title="Ice Hockey",New Jersey Devils vs. Carolina Hurricanes
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NDFhNjk4YjE5YzA3LTgyMmEtYmVjNC04N2RlLTIyYWI2MDlm/master.m3u8?md5=PvmXkZBdm_a6TqZma25jcA&expires=1745881500&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="Twins.TV" tvg-name="Minnesota Twins vs. Cleveland Guardians" tvg-logo="https://i.imgur.com/loTnW7h.png" group-title="MLB",Minnesota Twins vs. Cleveland Guardians
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=IhqYyalnWuVKDZjgtAJ9xw&expires=1745980200&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Minnesota Wild vs. Vegas Golden Knights" tvg-logo="https://i.imgur.com/rTTcuee.png" group-title="Ice Hockey",Minnesota Wild vs. Vegas Golden Knights
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY2OTdiZGE1YjJjLTMzODgtNTY3NC0yMjI3LTg3YWM0ZDRm/master.m3u8?md5=AKXBcbuVcrx_JFRp-Hs3Tw&expires=1745889000&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="MASN" tvg-name="New York Yankees vs. Baltimore Orioles" tvg-logo="https://i.imgur.com/fi69DHh.png" group-title="MLB",New York Yankees vs. Baltimore Orioles
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=EABP8Psd-RyKIZ9b6EyQMA&expires=1745987400&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="Max" tvg-name="Edmonton Oilers vs. Los Angeles Kings" tvg-logo="https://i.imgur.com/v2nSQOl.png" group-title="Ice Hockey",Edmonton Oilers vs. Los Angeles Kings
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmM0NzVlNjM1NTY0LWFjZWEtZDI4NC1kZjllLWVjZDc3N2E4/master.m3u8?md5=AsloQd8lG3o_VnaSLPe3Mw&expires=1745890500&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="FanDuel SN MW" tvg-name="St. Louis Cardinals vs. Cincinnati Reds" tvg-logo="https://i.imgur.com/elCkhVF.png" group-title="MLB",St. Louis Cardinals vs. Cincinnati Reds
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=oUJvrUr-hkAJo7qRKC_ukg&expires=1745989200&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="Twins.TV" tvg-name="Minnesota Twins vs. Cleveland Guardians" tvg-logo="https://i.imgur.com/DnxoXh3.png" group-title="MLB",Minnesota Twins vs. Cleveland Guardians
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmZlYmFjYzI2MDc1LWYzZjktNjk3NC1lZDRhLTg5MDQ1NDU4/master.m3u8?md5=JWzLsgdo8jVg8uiDZOQopw&expires=1745890800&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="Rangers Sports Network" tvg-name="Athletics vs. Texas Rangers" tvg-logo="https://i.imgur.com/1Is6XQ5.png" group-title="MLB",Athletics vs. Texas Rangers
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY2OTdiZGE1YjJjLTMzODgtNTY3NC0yMjI3LTg3YWM0ZDRm/master.m3u8?md5=KuYOzZ6XIFpgjPCRO06Y1g&expires=1745975400&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="MASN" tvg-name="New York Yankees vs. Baltimore Orioles" tvg-logo="https://i.imgur.com/QJg2R5r.png" group-title="MLB",New York Yankees vs. Baltimore Orioles
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTUxZDg4MGIwYjVhLWNjZDktY2EwNC01ODA5LTZkOTViMDE5/master.m3u8?md5=O9DTC2cH-obNMjB-Yn4mYQ&expires=1745895900&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="FanDuel SN DET" tvg-name="Detroit Tigers vs. Houston Astros" tvg-logo="https://i.imgur.com/5FNRejY.png" group-title="MLB",Detroit Tigers vs. Houston Astros
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmM0NzVlNjM1NTY0LWFjZWEtZDI4NC1kZjllLWVjZDc3N2E4/master.m3u8?md5=E7yK8WNkg3mzuOs-btSw7w&expires=1745976900&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="SportsNet PIT" tvg-name="Chicago Cubs vs. Pittsburgh Pirates" tvg-logo="https://i.imgur.com/dsYiK6p.png" group-title="MLB",Chicago Cubs vs. Pittsburgh Pirates
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGEzZjZhMzYwNTQ3LTU4OWEtYmY1NC1hMTYzLTRiODA1MWZl/master.m3u8?md5=qqhH50ViMgniV5TnAT-TxQ&expires=1745896200&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="Rockies.TV" tvg-name="Atlanta Braves vs. Colorado Rockies" tvg-logo="https://i.imgur.com/fOgqlXt.png" group-title="MLB",Atlanta Braves vs. Colorado Rockies
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OGE0ODRhOWFhNTdhLTllYjktNTA4NC0zZTNiLTgyZGI3MGQ3/master.m3u8?md5=BKw23MIHDZjVU2VnnUTV7g&expires=1745977200&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="FanDuel SN OH" tvg-name="St. Louis Cardinals vs. Cincinnati Reds" tvg-logo="https://i.imgur.com/t3PiIwA.png" group-title="MLB",St. Louis Cardinals vs. Cincinnati Reds
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjkxMmNmNWU0OGZmLTZlNDgtZTk0NC05ZjE1LTcwNTc0MTI4/master.m3u8?md5=nNumb3Xud4dv5Syy9aAtzg&expires=1745898000&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="FanDuel SN FL" tvg-name="Miami Marlins vs. Los Angeles Dodgers" tvg-logo="https://i.imgur.com/xirPXy0.png" group-title="MLB",Miami Marlins vs. Los Angeles Dodgers
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmZlYmFjYzI2MDc1LWYzZjktNjk3NC1lZDRhLTg5MDQ1NDU4/master.m3u8?md5=BKw23MIHDZjVU2VnnUTV7g&expires=1745977200&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="NBC Sports Phil" tvg-name="Washington Nationals vs. Philadelphia Phillies" tvg-logo="https://i.imgur.com/Kg2Yqel.png" group-title="MLB",Washington Nationals vs. Philadelphia Phillies
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OWUzMmMwNDYzMDRlLWI4MTktNTdhNC1kYTU5LTcwMDc3MTky/master.m3u8?md5=4gz0oLhEQFkpW-iOWm8b2A&expires=1745903400&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="Netflix" tvg-name="WWE: Monday Night RAW" tvg-logo="https://i.imgur.com/zmuUYCm.png" group-title="Wrestling",WWE: Monday Night RAW
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzAyZDA2OTVjOTc2LTgwNTktN2U1NC04Njg3LTY2YjkzYWIw/master.m3u8?md5=SG7X6-q8EUl199Cktd_SLA&expires=1745977500&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="FanDuel SN Sun" tvg-name="Kansas City Royals vs. Tampa Bay Rays" tvg-logo="https://i.imgur.com/tgxLYjF.png" group-title="MLB",Kansas City Royals vs. Tampa Bay Rays
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://gg.poocloud.in/wwe/index.m3u8?md5=rOFwhRC4xAfrcu_zsAae8w&expires=1745894700&net=MTczLjcxLjE2NS4xMzQ%3D
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZjQ1MmEzYzNhMzIwLThiN2ItMGYyNC1mODEyLTEzNzI4YmQz/master.m3u8?md5=D58_LY90WOZ72QeyWlQf4A&expires=1745978700&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="Sportsnet One" tvg-name="Boston Red Sox vs. Toronto Blue Jays" tvg-logo="https://i.imgur.com/VsgokAG.png" group-title="MLB",Boston Red Sox vs. Toronto Blue Jays
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YjQyNWFjNjFhNmYzLTE3NTktNDg1NC00YTQ3LTQxYmM1MTVi/master.m3u8?md5=a2YARcTlkBdYWJ2BuRk3HA&expires=1745978820&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="SNY" tvg-name="Arizona Diamondbacks vs. New York Mets" tvg-logo="https://i.imgur.com/Cs1QYLc.png" group-title="MLB",Arizona Diamondbacks vs. New York Mets
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTgwYWU4MzQ5OGRjLTEzYzgtMzBmNC0zY2IyLTdhM2ZlY2Uy/master.m3u8?md5=LYOxRVIXS9PgEcVRC7b_5Q&expires=1745979000&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="CHSN" tvg-name="Milwaukee Brewers vs. Chicago White Sox" tvg-logo="https://i.imgur.com/LlDjxHh.png" group-title="MLB",Milwaukee Brewers vs. Chicago White Sox
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZjA3N2MwNjE0OWVkLTljZDgtMzAxNC05OTA4LTdhZTgzNDk5/master.m3u8?md5=9bgiv7w8mojmT-LdE_U0Lg&expires=1745980800&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="Rangers Sports Network" tvg-name="Athletics vs. Texas Rangers" tvg-logo="https://i.imgur.com/6zjHEGQ.png" group-title="MLB",Athletics vs. Texas Rangers
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTUxZDg4MGIwYjVhLWNjZDktY2EwNC01ODA5LTZkOTViMDE5/master.m3u8?md5=tjKCqTa1E0GkMlg163EE2w&expires=1745982300&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="Space City Home Network" tvg-name="Detroit Tigers vs. Houston Astros" tvg-logo="https://i.imgur.com/O2cl68v.png" group-title="MLB",Detroit Tigers vs. Houston Astros
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGEzZjZhMzYwNTQ3LTU4OWEtYmY1NC1hMTYzLTRiODA1MWZl/master.m3u8?md5=4iKev91C_mvgcqP3P4F2yg&expires=1745982600&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="Rockies.TV" tvg-name="Atlanta Braves vs. Colorado Rockies" tvg-logo="https://i.imgur.com/grTi7XU.png" group-title="MLB",Atlanta Braves vs. Colorado Rockies
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjkxMmNmNWU0OGZmLTZlNDgtZTk0NC05ZjE1LTcwNTc0MTI4/master.m3u8?md5=EKLZKHGH6LLjISF07_2NrA&expires=1745984400&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="Root Sports NW" tvg-name="Los Angeles Angels vs. Seattle Mariners" tvg-logo="https://i.imgur.com/HzirHb5.png" group-title="MLB",Los Angeles Angels vs. Seattle Mariners
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODVmMjkyM2QzZTM1LTk2OGItM2U2NC1kNjJmLTk2ZTkzMmRh/master.m3u8?md5=J_oDVekovaZcY6wQREBxqQ&expires=1745988000&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="NBC Sports BA" tvg-name="San Francisco Giants vs. San Diego Padres" tvg-logo="https://i.imgur.com/CyF3JGM.png" group-title="MLB",San Francisco Giants vs. San Diego Padres
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OGRiM2QyY2Q3MzU5LWUyNWEtYjY3NC1hYWIwLWEzMDM1NDU5/master.m3u8?md5=J_oDVekovaZcY6wQREBxqQ&expires=1745988000&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="Sportsnet LA" tvg-name="Miami Marlins vs. Los Angeles Dodgers" tvg-logo="https://i.imgur.com/QQ7tXMr.png" group-title="MLB",Miami Marlins vs. Los Angeles Dodgers
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OWUzMmMwNDYzMDRlLWI4MTktNTdhNC1kYTU5LTcwMDc3MTky/master.m3u8?md5=GaRI0Z4KLlzty2hmWUmyig&expires=1745989800&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="ppv.land" tvg-name="24/7 COWS" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png" group-title="24/7 Streams",24/7 COWS
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
