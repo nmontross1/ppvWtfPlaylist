@@ -32,14 +32,6 @@ export default class PpvWtfAutomationRunnerService {
           const detailed = await getStreamById(stream.id);
           if (detailed?.data?.m3u8) {
             let m3u8Url = detailed.data.m3u8;
-            
-            const url = new URL(m3u8Url);
-            const expires = url.searchParams.get('expires');
- 
-            if (expires && parseInt(expires) < Math.floor(Date.now() / 1000)) {
-              url.searchParams.delete('expires');
-              m3u8Url = url.toString();
-            }
   
             enrichedStreams.push({
               id: stream.id,
