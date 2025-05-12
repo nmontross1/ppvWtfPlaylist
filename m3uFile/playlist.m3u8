@@ -1,60 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TNT" tvg-name="Pacers at Cavaliers" tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/ind-cle/1280x720.png" group-title="Basketball",Pacers at Cavaliers
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWQzYzYzYjM0ZjIyLTcyMDktZmQyNC1iMzU4LTgxODY0ODFk/master.m3u8?md5=K0JZxlikdxmox9oxc1dLww&expires=1746405900&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="TNT" tvg-name="Warriors at Rockets" tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/gsw-hou/1280x720.png" group-title="Basketball",Warriors at Rockets
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmRmYzE0MTdkMzJiLTdlZGItZmQxNC0yZGM4LWFiNDQ1NTU5/master.m3u8?md5=h_ghf2jC9kqXOj5ruZ844g&expires=1746414900&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="Sky Sports Action" tvg-name="Live Fight Night Int: Inoue v Cardenas" tvg-logo="https://i.imgur.com/D5GmXFz.png" group-title="Combat Sports",Live Fight Night Int: Inoue v Cardenas
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmU2YTVhYjZkMTQ5LTRiM2ItZmZmNC05ZDMxLWViYjMwNTIy/master.m3u8?md5=Xh6U62tBn7cjQrDfIc7naQ&expires=1746421200&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="LND PPV" tvg-name="LND Monthly" tvg-logo="https://i.imgur.com/EtF4pVY.png" group-title="Combat Sports",LND Monthly
 https://vod.ppv.wtf/lnd/index.m3u8?md5=VGRtKolyXcE1uyUiTBmeFQ&expires=1747548000&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: 2025 European Darts Grand Prix Day Three" tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_1fbwtq00/width/640" group-title="Darts",PDC: 2025 European Darts Grand Prix Day Three
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODQzMmE0OWNiNjk2LWVhNDktN2JlNC04ZTllLWUwNDQzZDA1/master.m3u8?md5=a9njqC7Wi2r74kqsBub9lA&expires=1746403140&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: World Cup Asia Qualifying (Malaysia) 2025" tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_uvu6i189/width/640" group-title="Darts",PDC: World Cup Asia Qualifying (Malaysia) 2025
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MzliM2NkNjY4Yjk4LTFjYjgtM2NiNC1mY2U1LTE4OGMwOTc5/master.m3u8?md5=ercJPIMPspngHqtflAvxig&expires=1746385200&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="Sky Sports" tvg-name="EPL: Chelsea vs Liverpool" tvg-logo="https://i.imgur.com/8tCku3P.jpeg" group-title="Football",EPL: Chelsea vs Liverpool
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Y2U0YThlZWM1MjcyLTVkMmItZTBiNC1lYzJjLTcxNzM0YzM3/master.m3u8?md5=N9MBBWGlgRc8opUeoGxs0A&expires=1746381600&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="LaLigaTV" tvg-name="Espanyol vs Real Betis" tvg-logo="https://i.imgur.com/qeEz4lH.png" group-title="Football",Espanyol vs Real Betis
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGNmMDYyMTVkZmNmLTY2NjgtMzQ1NC1kNGUyLWU5Zjc0ZmI5/master.m3u8?md5=ercJPIMPspngHqtflAvxig&expires=1746385200&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="LaLigaTV" tvg-name="Real Sociedad vs Athletic Bilbao" tvg-logo="https://i.imgur.com/uPZmnMx.png" group-title="Football",Real Sociedad vs Athletic Bilbao
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGNmMDYyMTVkZmNmLTY2NjgtMzQ1NC1kNGUyLWU5Zjc0ZmI5/master.m3u8?md5=e9Y_V0VfBZLjtzlwj8YwuA&expires=1746393300&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="TBS" tvg-name="St. Louis Blues vs. Winnipeg Jets" tvg-logo="https://i.imgur.com/LITifdZ.png" group-title="Ice Hockey",St. Louis Blues vs. Winnipeg Jets
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=qlYBm3wXzA5MyR5oj_PVOQ&expires=1746410400&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="FanDuel SN MW" tvg-name="New York Mets vs. St. Louis Cardinals" tvg-logo="https://i.imgur.com/H3lUrRP.png" group-title="MLB",New York Mets vs. St. Louis Cardinals
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Yjk4YjU1MjgzYTI5LTc0OTgtZDJhNC05ZmFmLTNkMjhkNjQ4/master.m3u8?md5=ZNdka-vGpU7xKILeGXqggQ&expires=1746389700&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="MASN" tvg-name="Kansas City Royals vs. Baltimore Orioles" tvg-logo="https://i.imgur.com/FUcGG7g.png" group-title="MLB",Kansas City Royals vs. Baltimore Orioles
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmM0NzVlNjM1NTY0LWFjZWEtZDI4NC1kZjllLWVjZDc3N2E4/master.m3u8?md5=nVdUGh469QGWO-LJm7zRZw&expires=1746390900&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="NESN" tvg-name="Minnesota Twins vs. Boston Red Sox" tvg-logo="https://i.imgur.com/aWQTmRr.png" group-title="MLB",Minnesota Twins vs. Boston Red Sox
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MTM3YjUwMzQxMDZmLTZiZDktY2E4NC1lNzZkLWNiNmNlOGUw/master.m3u8?md5=nVdUGh469QGWO-LJm7zRZw&expires=1746390900&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="SportsNet PIT" tvg-name="San Diego Padres vs. Pittsburgh Pirates" tvg-logo="https://i.imgur.com/OFExEP4.png" group-title="MLB",San Diego Padres vs. Pittsburgh Pirates
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OGE0ODRhOWFhNTdhLTllYjktNTA4NC0zZTNiLTgyZGI3MGQ3/master.m3u8?md5=nVdUGh469QGWO-LJm7zRZw&expires=1746390900&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="YES" tvg-name="Tampa Bay Rays vs. New York Yankees" tvg-logo="https://i.imgur.com/Xd48Tvs.png" group-title="MLB",Tampa Bay Rays vs. New York Yankees
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmQ4YjNmYzE5YTY1LTZjZDktMTEwNC05NzExLTc2M2QwNGE2/master.m3u8?md5=nVdUGh469QGWO-LJm7zRZw&expires=1746390900&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="TVA" tvg-name="Cleveland Guardians vs. Toronto Blue Jays" tvg-logo="https://i.imgur.com/HytYVbu.png" group-title="MLB",Cleveland Guardians vs. Toronto Blue Jays
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YjQyNWFjNjFhNmYzLTE3NTktNDg1NC00YTQ3LTQxYmM1MTVi/master.m3u8?md5=P0Cr-lTXq-TYAsyE8ZZlXg&expires=1746391020&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="FanDuel SN FL" tvg-name="Athletics vs. Miami Marlins" tvg-logo="https://i.imgur.com/pzCmzI4.png" group-title="MLB",Athletics vs. Miami Marlins
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YjVmMDI3YjEwMzljLWQzNjgtZGI5NC1hZjZmLTBiOGNmODQ0/master.m3u8?md5=d1fuKwlHK30LgV1DcxEshQ&expires=1746391200&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="NBC Sports Phil" tvg-name="Arizona Diamondbacks vs. Philadelphia Phillies" tvg-logo="https://i.imgur.com/TXtibIr.png" group-title="MLB",Arizona Diamondbacks vs. Philadelphia Phillies
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzAyZDA2OTVjOTc2LTgwNTktN2U1NC04Njg3LTY2YjkzYWIw/master.m3u8?md5=jbAclHphF5dmYldYbyWmGQ&expires=1746392700&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="FanDuel SN WI" tvg-name="Chicago Cubs vs. Milwaukee Brewers" tvg-logo="https://i.imgur.com/TnQ87jL.png" group-title="MLB",Chicago Cubs vs. Milwaukee Brewers
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MjU5MGQ0MTJkM2FkLTJhYTgtNDVkNC1iNGEwLTgyOTZhMDJj/master.m3u8?md5=D5JTnzWzMPRcPoAi6WbL3Q&expires=1746393000&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="CHSN" tvg-name="Houston Astros vs. Chicago White Sox" tvg-logo="https://i.imgur.com/8zUOREJ.png" group-title="MLB",Houston Astros vs. Chicago White Sox
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZjA3N2MwNjE0OWVkLTljZDgtMzAxNC05OTA4LTdhZTgzNDk5/master.m3u8?md5=D5JTnzWzMPRcPoAi6WbL3Q&expires=1746393000&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="Rangers Sports Network" tvg-name="Seattle Mariners vs. Texas Rangers" tvg-logo="https://i.imgur.com/8GhH8Fj.png" group-title="MLB",Seattle Mariners vs. Texas Rangers
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTUxZDg4MGIwYjVhLWNjZDktY2EwNC01ODA5LTZkOTViMDE5/master.m3u8?md5=NjjVqQFakOcpjIZQmPcAdA&expires=1746394500&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="NBC Sports BA" tvg-name="Colorado Rockies vs. San Francisco Giants" tvg-logo="https://i.imgur.com/GtLw1wh.png" group-title="MLB",Colorado Rockies vs. San Francisco Giants
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1M2IyYTE4OGFmNjY5LWRlMDktYTc0NC0yMjg1LWU0MjAyNDU1/master.m3u8?md5=UEvDMnxrZeqzJ_Owgx-NMw&expires=1746399900&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="FanDuel SN West" tvg-name="Detroit Tigers vs. Los Angeles Angels" tvg-logo="https://i.imgur.com/sgqFo9g.png" group-title="MLB",Detroit Tigers vs. Los Angeles Angels
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OWU2MzFkOTA2ZDFiLTQ4ZTktYTQyNC1lMWNiLWU5YzZhODVm/master.m3u8?md5=h2B1SJjMPVEorPYSVqT63Q&expires=1746400020&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="FanDuel SN OH" tvg-name="Washington Nationals vs. Cincinnati Reds" tvg-logo="https://i.imgur.com/Ja8TkmE.png" group-title="MLB",Washington Nationals vs. Cincinnati Reds
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmZlYmFjYzI2MDc1LWYzZjktNjk3NC1lZDRhLTg5MDQ1NDU4/master.m3u8?md5=3Lc2r-RJVKscrkhc01bkTQ&expires=1746400200&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="FanDuel SN MW Extra" tvg-name="New York Mets vs. St. Louis Cardinals" tvg-logo="https://i.imgur.com/9CYLUhi.png" group-title="MLB",New York Mets vs. St. Louis Cardinals
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Yjk4YjU1MjgzYTI5LTc0OTgtZDJhNC05ZmFmLTNkMjhkNjQ4/master.m3u8?md5=9qPOw6BhXUT_2RUr3myyNw&expires=1746407700&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Los Angeles Dodgers vs. Atlanta Braves" tvg-logo="https://i.imgur.com/pkgSgoN.png" group-title="MLB",Los Angeles Dodgers vs. Atlanta Braves
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWMxN2M4YWMzNTVjLWY0NjgtMTIwNC00MmY5LWZjMzJhNGU4/master.m3u8?md5=qlYBm3wXzA5MyR5oj_PVOQ&expires=1746410400&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="Sky Sports F1" tvg-name="F1: Miami GP (Race)" tvg-logo="https://i.imgur.com/0Zzn3wD.png" group-title="Motorsports",F1: Miami GP (Race)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=HoYtz9HjCRuyPyyIiWPuaA&expires=1746399600&net=MTczLjcxLjE2NS4xMzQ%3D
-#EXTINF:-1 tvg-id="F1TV" tvg-name="F1: Miami GP (Race / F1TV)" tvg-logo="https://i.imgur.com/0Zzn3wD.png" group-title="Motorsports",F1: Miami GP (Race / F1TV)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzA0MzI5MjU5N2E5LWVlNGEtMzI2NC0xZTVmLWE2N2QxNGRm/master.m3u8?md5=HoYtz9HjCRuyPyyIiWPuaA&expires=1746399600&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: Players Championship 15 - Board 4" tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_zmzqzjqp/width/640" group-title="Darts",PDC: Players Championship 15 - Board 4
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzFlNjcyOWIzMzkyLWUwYTktMTZhNC0yOWEwLTI0MjIzNmVi/master.m3u8?md5=L1uSINMxFZ_JviPMye3CYg&expires=1747094340&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: Players Championship 15 - Board 1" tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_4zz4k9gb/width/640" group-title="Darts",PDC: Players Championship 15 - Board 1
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTA4MDQ2ZTQxY2ZjLWJhN2EtMzMzNC01NjI0LWFhN2Y5OTcw/master.m3u8?md5=L1uSINMxFZ_JviPMye3CYg&expires=1747094340&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: Players Championship 15 - Board 3" tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_eh881v3l/width/640" group-title="Darts",PDC: Players Championship 15 - Board 3
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1M2YzOWE3ODM1NTE1LWRhMzgtN2M5NC05OGZjLTdmZDc5Mzdi/master.m3u8?md5=L1uSINMxFZ_JviPMye3CYg&expires=1747094340&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: Players Championship 15 - Board 2" tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_1vpco1xv/width/640" group-title="Darts",PDC: Players Championship 15 - Board 2
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZWVjZGRmYTkwZmJhLWI2YWEtN2QzNC03YzM3LTRiZWYyYTUw/master.m3u8?md5=L1uSINMxFZ_JviPMye3CYg&expires=1747094340&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="Sky Sports Football" tvg-name="Sheffield United vs Bristol City" tvg-logo="https://i.imgur.com/JgbHSpU.png" group-title="Football",Sheffield United vs Bristol City
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODI3YjQ1YjQ1Yzc2LTM5NGEtZGRlNC00MGQ0LTEzZmFhNTYx/master.m3u8?md5=OvUVtZIWn6g6ZGPrRie6Tw&expires=1747087200&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="Sky Sports" tvg-name="Sunderland vs Coventry" tvg-logo="https://i.imgur.com/hsaNhDl.jpeg" group-title="Football",Sunderland vs Coventry
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODI3YjQ1YjQ1Yzc2LTM5NGEtZGRlNC00MGQ0LTEzZmFhNTYx/master.m3u8?md5=Pzh9sclp0XkLn4gNE3m65Q&expires=1747173600&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="Ligue 1 Pass" tvg-name="Marseille vs Rennes" tvg-logo="https://i.imgur.com/gLVZQDz.png" group-title="Football",Marseille vs Rennes
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1N2FmZmI0MDJmOWFlLTkzMTgtYTdmNC1iNzcxLWI2NGI3MzVm/master.m3u8?md5=8QNzQjs1Jpm4fEIdRr_rOA&expires=1747519200&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="TBS" tvg-name="Toronto Maple Leafs vs. Florida Panthers" tvg-logo="https://i.imgur.com/67Ef9Bl.png" group-title="Ice Hockey",Toronto Maple Leafs vs. Florida Panthers
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=rLslapE9gsiwiqBcS6ivTA&expires=1747017000&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="TSN" tvg-name="2025 IIHF Men's World Championship: Austria vs. Slovakia" tvg-logo="https://i.imgur.com/e0aEyiM.jpeg" group-title="Ice Hockey",2025 IIHF Men's World Championship: Austria vs. Slovakia
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MmJkNWIyNzI1YjU2LWIxM2ItNzM2NC0xNDZiLThjYmY4MTRj/master.m3u8?md5=FiNjwUq-AvyF2eqWL9hCWQ&expires=1747070400&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="TSN" tvg-name="2025 IIHF Men's World Championship: USA vs. Switzerland" tvg-logo="https://i.imgur.com/RjPwzVq.jpeg" group-title="Ice Hockey",2025 IIHF Men's World Championship: USA vs. Switzerland
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTNlYTExOGI0NGIzLWRiYmEtNjZlNC0zYzZiLWUyMDE1MDky/master.m3u8?md5=FiNjwUq-AvyF2eqWL9hCWQ&expires=1747070400&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="TSN" tvg-name="2025 IIHF Men's World Championship: Finland vs. Sweden" tvg-logo="https://i.imgur.com/BBhBQXs.jpeg" group-title="Ice Hockey",2025 IIHF Men's World Championship: Finland vs. Sweden
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MmJkNWIyNzI1YjU2LWIxM2ItNzM2NC0xNDZiLThjYmY4MTRj/master.m3u8?md5=qk2Qo0A3CJb3E0o9Gi5ILA&expires=1747084800&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="TSN" tvg-name="2025 IIHF Men's World Championship: Czechia vs. Denmark" tvg-logo="https://i.imgur.com/Gllne8L.jpeg" group-title="Ice Hockey",2025 IIHF Men's World Championship: Czechia vs. Denmark
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTNlYTExOGI0NGIzLWRiYmEtNjZlNC0zYzZiLWUyMDE1MDky/master.m3u8?md5=qk2Qo0A3CJb3E0o9Gi5ILA&expires=1747084800&net=MTczLjcxLjE2NS4xMzQ%3D
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Philadelphia Phillies vs. Cleveland Guardians" tvg-logo="https://i.imgur.com/HAV570e.png" group-title="MLB",Philadelphia Phillies vs. Cleveland Guardians
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MGY2OTdiZGE1YjJjLTMzODgtNTY3NC0yMjI3LTg3YWM0ZDRm/master.m3u8?md5=Rkn3xnABfAZOYonmrLRkvg&expires=1747015200&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="ppv.land" tvg-name="24/7 COWS" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png" group-title="24/7 Streams",24/7 COWS
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=QmS032QVGAmZ63SiIQ4NmQ&expires=1740772800&net=MTczLjcxLjE2NS4xMzQ%3D
 #EXTINF:-1 tvg-id="24/7 channel" tvg-name="24/7 South Park" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
