@@ -1,6 +1,6 @@
 export default class JsonToM3uService {
   async convert(jsonData) {
-    const lines = ['#EXTM3U\n'];
+    const lines = ['#EXTM3U'];
 
     for (const item of jsonData) {
       if (item.m3u8) {
