@@ -34,7 +34,7 @@ export default class PpvWtfAutomationRunnerService {
               tag: stream.tag,
               poster: stream.poster,
               category_name: stream.category_name,
-              m3u8: m3u8Url,
+              m3u8: m3u8Url || null,
             });
         } catch (error) {
           console.warn(`Failed to enrich stream ${stream.id}`, error);

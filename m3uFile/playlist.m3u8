@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Timberwolves at Thunder (Game 2)" tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/min-okc/1280x720.png" group-title="Basketball",Timberwolves at Thunder (Game 2)
+#EXTVLCOPT:http-origin=https://ppv.wtf
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+
+
 #EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: BetMGM Premier League - Night Sixteen" tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_u43l0q4c/width/640" group-title="Darts",PDC: BetMGM Premier League - Night Sixteen
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
@@ -11,18 +17,6 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGRlYjJmNzY0MDExLWFkMWI
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDNkMDYxMmRlNWJlLWUxYmEtMGY4NC01Nzc2LTBkZjFjYWE5/master.m3u8?md5=wjM5hsdzRQJiY1rYzTBV-Q&expires=1748044740&net=MTczLjcxLjE2NS4xMzQ%3D
-
-#EXTINF:-1 tvg-id="TSN1" tvg-name="2025 IIHF Men's World Championship: Quarterfinal - Switzerland vs. Austria" tvg-logo="https://i.imgur.com/FO8fvP8.jpeg" group-title="Ice Hockey",2025 IIHF Men's World Championship: Quarterfinal - Switzerland vs. Austria
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MmJkNWIyNzI1YjU2LWIxM2ItNzM2NC0xNDZiLThjYmY4MTRj/master.m3u8?md5=IpWl0ufPsPz4Sv_KwWiz2A&expires=1747934400&net=MTczLjcxLjE2NS4xMzQ%3D
-
-#EXTINF:-1 tvg-id="TSN4" tvg-name="2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland" tvg-logo="https://i.imgur.com/nTPOQeB.jpeg" group-title="Ice Hockey",2025 IIHF Men's World Championship: Quarterfinal - USA vs. Finland
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTNlYTExOGI0NGIzLWRiYmEtNjZlNC0zYzZiLWUyMDE1MDky/master.m3u8?md5=IpWl0ufPsPz4Sv_KwWiz2A&expires=1747934400&net=MTczLjcxLjE2NS4xMzQ%3D
 
 #EXTINF:-1 tvg-id="TSN1" tvg-name="2025 IIHF Men's World Championship: Quarterfinal - Canada vs. Denmark" tvg-logo="https://i.imgur.com/6TDeuBA.jpeg" group-title="Ice Hockey",2025 IIHF Men's World Championship: Quarterfinal - Canada vs. Denmark
 #EXTVLCOPT:http-origin=https://ppv.wtf
@@ -311,6 +305,12 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGI
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=QmS032QVGAmZ63SiIQ4NmQ&expires=1740772800&net=MTczLjcxLjE2NS4xMzQ%3D
+
+#EXTINF:-1 tvg-id="24/7 channel" tvg-name="24/7 Family Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 Streams",24/7 Family Guy
+#EXTVLCOPT:http-origin=https://ppv.wtf
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+
 
 #EXTINF:-1 tvg-id="24/7 channel" tvg-name="24/7 South Park" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 #EXTVLCOPT:http-origin=https://ppv.wtf
