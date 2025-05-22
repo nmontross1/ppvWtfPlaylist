@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/main/epgs/daddylive-channels-epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/nmontross1/ppvWtfPlaylist/refs/heads/main/m3uFile/daddy_live_hd_channels_usa_epg.xml"
 
 #EXTINF:-1 tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vamos.png" group-title="SPAIN",#Vamos Spain
 https://nmontross1-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01MjEvbW9uby5tM3U4.m3u8
