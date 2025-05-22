@@ -26,8 +26,7 @@ export default class PpvWtfAutomationRunnerService {
       for (const stream of category.streams) {
         try {
           const detailed = await getStreamById(stream.id);
-          if (detailed?.data?.m3u8) {
-            let m3u8Url = detailed.data.m3u8;
+            let m3u8Url = detailed?.data?.m3u8;
 
             enrichedStreams.push({
               id: stream.id,
@@ -37,7 +36,6 @@ export default class PpvWtfAutomationRunnerService {
               category_name: stream.category_name,
               m3u8: m3u8Url,
             });
-          }
         } catch (error) {
           console.warn(`Failed to enrich stream ${stream.id}`, error);
         }
