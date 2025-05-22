@@ -1,9 +1,8 @@
 export default class PpvWtfAutomationRunnerService {
-  constructor(apiService, jsonToM3uService, fileService, githubService) {
+  constructor(apiService, jsonToM3uService, fileService) {
     this.apiService = apiService;
     this.jsonToM3uService = jsonToM3uService;
     this.fileService = fileService;
-    this.githubService = githubService;
   }
 
   async run() {
@@ -15,11 +14,7 @@ export default class PpvWtfAutomationRunnerService {
 
     const m3uFile = await this.jsonToM3uService.convert(enrichedStreams);
     console.log(m3uFile);
-    const m3uFilePath = this.fileService.saveM3uToProjectFolder(m3uFile);
-
-    const githubResponse =
-      await this.githubService.commitChanges(m3uFilePath);
-    return githubResponse;
+    this.fileService.saveM3uToProjectFolder(m3uFile);
   }
 
   async fetchEnrichedStreams(json, getStreamById) {

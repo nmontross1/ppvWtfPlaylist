@@ -1,13 +1,10 @@
 import { formatInTimeZone } from "date-fns-tz";
-// import cron from 'node-cron';
 import axios from "axios";
 import fs from "fs";
 import path from "path";
-import { exec } from "child_process";
 import ApiService from "./src/services/api-service.js";
 import JsonToM3uService from "./src/services/json-to-m3u-service.js";
 import FileService from "./src/services/file-service.js";
-import GithubService from "./src/services/github-service.js";
 import PpvWtfAutomationRunnerService from "./src/services/ppv-wtf-automation-runner-service.js";
 
 (async function runAutomation() {
@@ -19,12 +16,10 @@ import PpvWtfAutomationRunnerService from "./src/services/ppv-wtf-automation-run
     const apiService = new ApiService(axios, "https://ppv.wtf/api");
     const jsonToM3uService = new JsonToM3uService();
     const fileService = new FileService(fs, path);
-    const githubService = new GithubService({ fs, path, exec });
     const ppvWtfAutomationRunnerService = new PpvWtfAutomationRunnerService(
       apiService,
       jsonToM3uService,
-      fileService,
-      githubService,
+      fileService
     );
 
     await ppvWtfAutomationRunnerService.run();
