@@ -2,8 +2,8 @@ name: Run PPV WTF Automation and Push Playlist
 
 on:
   schedule:
-    - cron: "*/30 * * * *" # Every 30 minutes (UTC)
-  workflow_dispatch: # Optional manual trigger
+    - cron: "0 */12 * * *"  # Every 12 hours (UTC)
+  workflow_dispatch:         # Optional manual trigger
 
 jobs:
   generate-and-push:
@@ -28,3 +28,11 @@ jobs:
 
       - name: Run automation script
         run: node index.js
+
+      - name: Commit and push playlist
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git add m3uFile/playlist.m3u
+          git commit -m "🤖 Update playlist [skip ci]" || echo "No changes to commit"
+          git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git HEAD:main
