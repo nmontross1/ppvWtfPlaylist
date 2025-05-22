@@ -3,7 +3,7 @@ import path from "path";
 
 export default class FileService {
   saveM3uToProjectFolder(m3uContent, filename = "playlist.m3u8") {
-    const dir = path.resolve(process.cwd(), "m3u8File");
+    const dir = path.resolve(process.cwd(), "m3uFile");
 
     if (!fs.existsSync(dir)) {
       fs.mkdirSync(dir, { recursive: true });
