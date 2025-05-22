@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="UFC Fight Pass" tvg-name="ROAD TO UFC S4: OPENING ROUND EPISODE 2" tvg-logo="https://i.imgur.com/1wkjRtf.png" group-title="Combat Sports",ROAD TO UFC S4: OPENING ROUND EPISODE 2
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzRiYWZlMDMxZmJkLTk3NmEtNjk2NC03MWFiLTRiMjRhNjY4/master.m3u8?md5=P81yJbQvRtiG-uvHrx5CSg&expires=1747929600&net=MTczLjcxLjE2NS4xMzQ%3D
-
 #EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: BetMGM Premier League - Night Sixteen" tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_u43l0q4c/width/640" group-title="Darts",PDC: BetMGM Premier League - Night Sixteen
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/

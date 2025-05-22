@@ -2,8 +2,8 @@ name: Run PPV WTF Automation and Push Playlist
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch: # Optional manual trigger
+    - cron: "*/30 * * * *"  # Every 30 minutes
+  workflow_dispatch:         # Manual trigger
 
 jobs:
   generate-and-push:
@@ -29,11 +29,29 @@ jobs:
       - name: Run automation script
         run: node index.js
 
-      - name: Commit and push playlist
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+      - name: Commit playlist (dry run)
         run: |
           git add m3uFile/playlist.m3u8
           git commit -m "🤖 Update playlist [skip ci]" || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git
-          git push origin HEAD:main
+          echo "🚫 Dry run - skipping git push"
+
+      # Verify GH_PAT secret presence before pushing
+      - name: Verify GH_PAT secret presence
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -z "$GH_PAT" ]; then
+            echo "❌ GH_PAT is NOT set!"
+            exit 1
+          else
+            echo "✅ GH_PAT is set and length is ${#GH_PAT}"
+          fi
+
+      # Uncomment below step and comment out dry run above to enable real push
+      # - name: Commit and push playlist
+      #   env:
+      #     GH_PAT: ${{ secrets.GH_PAT }}
+      #   run: |
+      #     git add m3uFile/playlist.m3u8
+      #     git commit -m "🤖 Update playlist [skip ci]" || echo "No changes to commit"
+      #     git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git HEAD:main
