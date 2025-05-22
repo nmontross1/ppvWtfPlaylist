@@ -7,7 +7,7 @@ import JsonToM3uService from "./src/services/json-to-m3u-service.js";
 import FileService from "./src/services/file-service.js";
 import PpvWtfAutomationRunnerService from "./src/services/ppv-wtf-automation-runner-service.js";
 
-(async function runAutomation() {
+async function runAutomation() {
   console.log(
     `PPV WTF Automation function execution started at: ${formatInTimeZone(new Date(), "America/New_York", "yyyy-MM-dd'T'HH:mm:ssxxx")}`,
   );
@@ -25,10 +25,12 @@ import PpvWtfAutomationRunnerService from "./src/services/ppv-wtf-automation-run
     await ppvWtfAutomationRunnerService.run();
   } catch (error) {
     console.error("❌ Error during automation:", error);
-    throw error;
+    process.exit(1); // Ensures GitHub Actions registers this as a failure
   } finally {
     console.log(
       `PPV WTF Automation function execution finished at: ${formatInTimeZone(new Date(), "America/New_York", "yyyy-MM-dd'T'HH:mm:ssxxx")}`,
     );
   }
-})();
+}
+
+runAutomation();
