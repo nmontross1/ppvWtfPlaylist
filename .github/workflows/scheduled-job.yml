@@ -2,8 +2,8 @@ name: Run PPV WTF Automation and Push Playlist
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Every 12 hours (UTC)
-  workflow_dispatch:         # Optional manual trigger
+    - cron: "*/30 * * * *"
+  workflow_dispatch: # Optional manual trigger
 
 jobs:
   generate-and-push:
