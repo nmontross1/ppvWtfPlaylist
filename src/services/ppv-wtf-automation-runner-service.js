@@ -18,7 +18,7 @@ export default class PpvWtfAutomationRunnerService {
     const m3uFilePath = this.fileService.saveM3uToProjectFolder(m3uFile);
 
     const githubResponse =
-      await this.githubService.commitAndPushToGithub(m3uFilePath);
+      await this.githubService.commitChanges(m3uFilePath);
     return githubResponse;
   }
 

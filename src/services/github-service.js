@@ -5,7 +5,7 @@ export default class GithubService {
     this.exec = exec;
   }
 
-  commitAndPushToGithub(filePath) {
+  commitChanges(filePath = ".") {
     return new Promise((resolve, reject) => {
       this.exec("git status --porcelain", (statusErr, stdout) => {
         if (statusErr) return reject(`Git status failed: ${statusErr.message}`);
@@ -14,18 +14,13 @@ export default class GithubService {
           return resolve(); // nothing to do
         }
 
-        this.exec("git add .", (addErr) => {
+        this.exec(`git add ${filePath}`, (addErr) => {
           if (addErr) return reject(`Git add failed: ${addErr.message}`);
 
-          this.exec('git commit -m "Update M3U file"', (commitErr) => {
-            if (commitErr)
-              return reject(`Git commit failed: ${commitErr.message}`);
-
-            this.exec("git push origin main", (pushErr) => {
-              if (pushErr) return reject(`Git push failed: ${pushErr.message}`);
-              console.log("✅ M3U file pushed to GitHub");
-              resolve();
-            });
+          this.exec('git commit -m "🤖 Update playlist [skip ci]"', (commitErr) => {
+            if (commitErr) return reject(`Git commit failed: ${commitErr.message}`);
+            console.log("✅ Changes committed. Push will be handled by GitHub Actions.");
+            resolve();
           });
         });
       });
