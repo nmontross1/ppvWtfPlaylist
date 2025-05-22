@@ -33,7 +33,7 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git add m3uFile/playlist.m3u
+          git add m3uFile/playlist.m3u8
           git commit -m "🤖 Update playlist [skip ci]" || echo "No changes to commit"
           git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git
           git push origin HEAD:main
