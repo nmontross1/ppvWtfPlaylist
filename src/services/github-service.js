@@ -18,7 +18,8 @@ export default class GithubService {
           if (addErr) return reject(`Git add failed: ${addErr.message}`);
 
           this.exec('git commit -m "Update M3U file"', (commitErr) => {
-            if (commitErr) return reject(`Git commit failed: ${commitErr.message}`);
+            if (commitErr)
+              return reject(`Git commit failed: ${commitErr.message}`);
 
             this.exec("git push origin main", (pushErr) => {
               if (pushErr) return reject(`Git push failed: ${pushErr.message}`);
