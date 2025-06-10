@@ -13,7 +13,7 @@ async function runAutomation() {
   );
 
   try {
-    const apiService = new ApiService(axios, "https://ppv.wtf/api");
+    const apiService = new ApiService(axios, "https://ppvs.su/api");
     const jsonToM3uService = new JsonToM3uService();
     const fileService = new FileService(fs, path);
     const ppvWtfAutomationRunnerService = new PpvWtfAutomationRunnerService(
