@@ -1,94 +1,100 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ESPN3" tvg-name="Fever at Dream" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Find-atl%2F1280x720.png@jpg" group-title="Basketball",Fever at Dream
+#EXTINF:-1 tvg-id="MAS+" tvg-name="Detroit Tigers vs. Baltimore Orioles" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FtXDUTSi.png@jpg" group-title="Baseball",Detroit Tigers vs. Baltimore Orioles
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmM0NzVlNjM1NTY0LWFjZWEtZDI4NC1kZjllLWVjZDc3N2E4/master.m3u8?md5=5C08opOOckrIMasPjF8h0g&expires=1749693900&net=MTczLjcxLjE2NS4xMzQ%3D
+
+#EXTINF:-1 tvg-id="NESN" tvg-name="Tampa Bay Rays vs. Boston Red Sox" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FAhwPu4R.png@jpg" group-title="Baseball",Tampa Bay Rays vs. Boston Red Sox
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTM3YjUwMzQxMDZmLTZiZDktY2E4NC1lNzZkLWNiNmNlOGUw/master.m3u8?md5=_nkirX-Io26jSbPF1f3kFg&expires=1749696000&net=MTczLjcxLjE2NS4xMzQ%3D
+
+#EXTINF:-1 tvg-id="SNY" tvg-name="Washington Nationals vs. New York Mets" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fv8NcS8S.png@jpg" group-title="Baseball",Washington Nationals vs. New York Mets
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTgwYWU4MzQ5OGRjLTEzYzgtMzBmNC0zY2IyLTdhM2ZlY2Uy/master.m3u8?md5=_nkirX-Io26jSbPF1f3kFg&expires=1749696000&net=MTczLjcxLjE2NS4xMzQ%3D
+
+#EXTINF:-1 tvg-id="FanDuel SN KC" tvg-name="New York Yankees vs. Kansas City Royals" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FcADdOOV.png@jpg" group-title="Baseball",New York Yankees vs. Kansas City Royals
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGY0YTI5ZjVkMGRiLTkyNTktODgyNC03OTQ3LTBiOWIzYzRm/master.m3u8?md5=HfyTDsqwnCiGPBhdF097-g&expires=1749697800&net=MTczLjcxLjE2NS4xMzQ%3D
+
+#EXTINF:-1 tvg-id="Twins.TV" tvg-name="Texas Rangers vs. Minnesota Twins" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FvcMLPnX.png@jpg" group-title="Baseball",Texas Rangers vs. Minnesota Twins
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YjBlOGIzMjEzNzg1LTMyYzktNDA5NC00MTIyLTgxOGYyODU0/master.m3u8?md5=HfyTDsqwnCiGPBhdF097-g&expires=1749697800&net=MTczLjcxLjE2NS4xMzQ%3D
+
+#EXTINF:-1 tvg-id="Space City Home Network" tvg-name="Chicago White Sox vs. Houston Astros" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F8cxohCR.png@jpg" group-title="Baseball",Chicago White Sox vs. Houston Astros
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGEzZjZhMzYwNTQ3LTU4OWEtYmY1NC1hMTYzLTRiODA1MWZl/master.m3u8?md5=u70pn8SfyNg0Su6ysAdzhA&expires=1749699600&net=MTczLjcxLjE2NS4xMzQ%3D
+
+#EXTINF:-1 tvg-id="Rockies.TV" tvg-name="San Francisco Giants vs. Colorado Rockies" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F12A5E5O.png@jpg" group-title="Baseball",San Francisco Giants vs. Colorado Rockies
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NjkxMmNmNWU0OGZmLTZlNDgtZTk0NC05ZjE1LTcwNTc0MTI4/master.m3u8?md5=3eIabv_nM_vOkjKkKBP5QA&expires=1749701400&net=MTczLjcxLjE2NS4xMzQ%3D
+
+#EXTINF:-1 tvg-id="ABC" tvg-name="Thunder at Pacers (Game 3)" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Fokc-ind%2F1280x720.png@jpg" group-title="Basketball",Thunder at Pacers (Game 3)
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmIzODJhNTBmNGZmLWRhOWEtMzYxNC0zYjBkLWI3NDUyODkz/master.m3u8?md5=nAXFsn2WiKHoUWdP2mo7Cw&expires=1749731533&t=1749688333
+
+#EXTINF:-1 tvg-id="CBS Sports Network" tvg-name="Sparks at Aces" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Flas-lva%2F1280x720.png@jpg" group-title="Basketball",Sparks at Aces
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Sky at Liberty" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fchi-nyl%2F1280x720.png@jpg" group-title="Basketball",Sky at Liberty
+#EXTINF:-1 tvg-id="KTVK" tvg-name="Wings at Mercury" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fdal-phx%2F1280x720.png@jpg" group-title="Basketball",Wings at Mercury
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 
 
-#EXTINF:-1 tvg-id="Sky Sport 7 NZ" tvg-name="Poland vs. Finland" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FhSG3wBD.png@jpg" group-title="Football",Poland vs. Finland
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ODQ4M2M4YTFkMDI5LTNlZmItZDVkNC0yZDBlLTAwZjU1ZmY3/master.m3u8?md5=BKTzcAmfCDbWaS48Tgf4zg&expires=1749591360&net=MTczLjcxLjE2NS4xMzQ%3D
-
-#EXTINF:-1 tvg-id="Sky Sport 4 NZ" tvg-name="Albania vs. Latvia" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F54v8doI.png@jpg" group-title="Football",Albania vs. Latvia
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTU0ODNmZGFkZjY1LTE5ZGItNjZiNC03NDljLTgzNmExZGJi/master.m3u8?md5=BKTzcAmfCDbWaS48Tgf4zg&expires=1749591360&net=MTczLjcxLjE2NS4xMzQ%3D
-
-#EXTINF:-1 tvg-id="Sky Sport 1 NZ" tvg-name="Malta vs. Netherlands" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FnO8LWcT.png@jpg" group-title="Football",Malta vs. Netherlands
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Y2JkNjQzNmEwYTFmLWZjOGEtZDRjNC0xY2Q5LWNjODQ5MDkx/master.m3u8?md5=BKTzcAmfCDbWaS48Tgf4zg&expires=1749591360&net=MTczLjcxLjE2NS4xMzQ%3D
-
-#EXTINF:-1 tvg-id="Sky Sport 5 NZ" tvg-name="Cyprus vs. Romania" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FEeJFtN0.png@jpg" group-title="Football",Cyprus vs. Romania
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjMwMDcxMjYzYTUxLTdiN2EtZDg5NC00OGM4LTc1NjI0MTg2/master.m3u8?md5=BKTzcAmfCDbWaS48Tgf4zg&expires=1749591360&net=MTczLjcxLjE2NS4xMzQ%3D
-
-#EXTINF:-1 tvg-id="Sky Sport 3 NZ" tvg-name="Austria vs. San Marino" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FWmEsdoU.png@jpg" group-title="Football",Austria vs. San Marino
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NGQ4YjM2NTNkMzJkLTU1Y2EtYmE2NC1kZjJkLWNlYzkyODZh/master.m3u8?md5=BKTzcAmfCDbWaS48Tgf4zg&expires=1749591360&net=MTczLjcxLjE2NS4xMzQ%3D
-
-#EXTINF:-1 tvg-id="Sky Sport 6 NZ" tvg-name="Andorra vs. Serbia" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FG8eFdhM.png@jpg" group-title="Football",Andorra vs. Serbia
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OWMwMWIyNTQ3MmU0LTIyNDgtNzMxNC02NWY2LWU4MTA0ZmI5/master.m3u8?md5=BKTzcAmfCDbWaS48Tgf4zg&expires=1749591360&net=MTczLjcxLjE2NS4xMzQ%3D
-
-#EXTINF:-1 tvg-id="Fubo Sports Network" tvg-name="Luxembourg vs Ireland Republic" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F9ImoLmC.png@jpg" group-title="Football",Luxembourg vs Ireland Republic
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OGJhYmQyOWU5ODE1LWIyNWEtY2M3NC00ZjY3LWJjZjBiMWEz/master.m3u8?md5=r08gv7IUm-cmbFiWxN9xYw&expires=1749593700&net=MTczLjcxLjE2NS4xMzQ%3D
-
-#EXTINF:-1 tvg-id="Sky Sport 2 NZ" tvg-name="England vs Senegal" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FA7uxmQi.png@jpg" group-title="Football",England vs Senegal
+#EXTINF:-1 tvg-id="KUNS" tvg-name="Lynx at Storm" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fwnba%2Flatest%2Fced%2Fmin-sea%2F1280x720.png@jpg" group-title="Basketball",Lynx at Storm
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 
 
-#EXTINF:-1 tvg-id="TBD" tvg-name="Chile vs. Bolivia" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FA0UPbl0.png@jpg" group-title="Football",Chile vs. Bolivia
+#EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: Players Championship 17 - Board 3" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_1u34wa9j%2Fwidth%2F640@jpg" group-title="Darts",PDC: Players Championship 17 - Board 3
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1M2Y1ZWY1MTYxMmU5LWU4NmItODFjNC1kYWI4LTA1ZmExMDJl/master.m3u8?md5=s9w4QeIyeAz7atu6ZGIVqA&expires=1749595860&net=MTczLjcxLjE2NS4xMzQ%3D
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1M2I3ODczMzAzNjljLTU1ZjktYjY4NC00NDYzLTczY2Q3OTgz/master.m3u8?md5=n3_KygN1AehonekYhIuu7A&expires=1749767400&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="TBD" tvg-name="Venezuela vs. Uruguay" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FOLZeHgo.png@jpg" group-title="Football",Venezuela vs. Uruguay
+#EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: Players Championship 17 - Board 2" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_y45t7kqp%2Fwidth%2F640@jpg" group-title="Darts",PDC: Players Championship 17 - Board 2
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1M2Y1ZWY1MTYxMmU5LWU4NmItODFjNC1kYWI4LTA1ZmExMDJl/master.m3u8?md5=mRYgbx969ZEyQPxcR6vtPA&expires=1749606660&net=MTczLjcxLjE2NS4xMzQ%3D
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ODQ0Y2I3MDQ5MjkxLWEwMWEtNzFhNC1hYTUzLTAyYzk5YTc3/master.m3u8?md5=n3_KygN1AehonekYhIuu7A&expires=1749767400&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="Premier Sports 1" tvg-name="Colombia vs. Argentina" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2F9E13MFv.png@jpg" group-title="Football",Colombia vs. Argentina
+#EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: Players Championship 17 - Board 4" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_9gjnxn9d%2Fwidth%2F640@jpg" group-title="Darts",PDC: Players Championship 17 - Board 4
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Y2JlYjE0NzhhNDMwLTEyMzgtNThiNC1lYTIzLTQ4NjZiYjc0/master.m3u8?md5=1vWoujXEWwMxfBmQF8l3zw&expires=1749610260&net=MTczLjcxLjE2NS4xMzQ%3D
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZTVjYTgyZDAxZmVkLWY5YWItMWU0NC04ODM3LWEwNWQ5YzY1/master.m3u8?md5=n3_KygN1AehonekYhIuu7A&expires=1749767400&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="Premier Sports 2" tvg-name="Paraguay vs. Brazil" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FlwGF3uM.png@jpg" group-title="Football",Paraguay vs. Brazil
+#EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: Players Championship 17 - Board 1" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_5ivu0u20%2Fwidth%2F640@jpg" group-title="Darts",PDC: Players Championship 17 - Board 1
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YjEyODM5ZjBmMjNjLTdlYWEtMWZmNC1kMWRlLWVkNDM0ZmQ3/master.m3u8?md5=OtI-3neDvym91gYibg7Scg&expires=1749612960&net=MTczLjcxLjE2NS4xMzQ%3D
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzFkNGFkYTEyOTI5LTFiMjgtNTFmNC0zMTM4LTg5NDA5ZTBi/master.m3u8?md5=n3_KygN1AehonekYhIuu7A&expires=1749767400&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="TBD" tvg-name="Ecuador vs. Peru" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FUxpaGmV.png@jpg" group-title="Football",Ecuador vs. Peru
+#EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: BetVictor World Cup of Darts - Day One" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fopen.http.mp.streamamg.com%2Fp%2F3000668%2Fsp%2F300066800%2Fthumbnail%2Fentry_id%2F0_rktd9ks1%2Fwidth%2F640@jpg" group-title="Darts",PDC: BetVictor World Cup of Darts - Day One
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1M2Y1ZWY1MTYxMmU5LWU4NmItODFjNC1kYWI4LTA1ZmExMDJl/master.m3u8?md5=FRodX9GRb0gGcJ1jrfCf6w&expires=1749615660&net=MTczLjcxLjE2NS4xMzQ%3D
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzY5OWY1YmUwMGRhLTIzNmEtZjU3NC1mNDYzLWNkM2Q2NTBj/master.m3u8?md5=Uh4x86sqjQIT8iXn6-U2-w&expires=1749774540&net=MTczLjcxLjE2NS4xMzQ%3D
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="Edmonton Oilers vs. Florida Panthers" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FsAoaR5h.png@jpg" group-title="Ice Hockey",Edmonton Oilers vs. Florida Panthers
 #EXTVLCOPT:http-origin=https://ppvs.su
@@ -108,17 +114,11 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=pb_F9BFRDtbcnIXNID7JCw&expires=1750217400&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="Netflix" tvg-name="WWE: NXT" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fn7tkxQQ.png@jpg" group-title="Wrestling",WWE: NXT
+#EXTINF:-1 tvg-id="TBS" tvg-name="AEW: Wednesday Night Dynamite & Collision" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FGajn72i.jpeg@jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite & Collision
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=X2IAJhrTGURZi9rnGUj3FQ&expires=1749612600&net=MTczLjcxLjE2NS4xMzQ%3D
-
-#EXTINF:-1 tvg-id="TBS" tvg-name="AEW: Wednesday Night Dynamite" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FGajn72i.jpeg@jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=3vBLPhHL4OSHzRPAjmh3Tw&expires=1749699000&net=MTczLjcxLjE2NS4xMzQ%3D
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=PcynwU3gYnnNhWgU5mjvUA&expires=1749702600&net=MTczLjcxLjE2NS4xMzQ%3D
 
 #EXTINF:-1 tvg-id="AXS TV" tvg-name="TNA: Impact" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2FFpS5gVp.png@jpg" group-title="Wrestling",TNA: Impact
 #EXTVLCOPT:http-origin=https://ppvs.su
@@ -132,38 +132,32 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=LK7F8NuXWhinFyXlo7a5hg&expires=1749871800&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fi.imgur.com%2Fx3OPAo3.jpeg@jpg" group-title="Wrestling",AEW: Saturday Night Collision
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=_spK4zShbHZxK18RGmXJAA&expires=1749958200&net=MTczLjcxLjE2NS4xMzQ%3D
-
 #EXTINF:-1 tvg-id="24/7 channel" tvg-name="24/7 South Park" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=RSQunOWNeDeWg8f7TNI1Tg&expires=1749624560&net=MTczLjcxLjE2NS4xMzQ%3D
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=DibmF32Q0qfBDsLFCAgoRg&expires=1749731430&net=MTczLjcxLjE2NS4xMzQ%3D
 
 #EXTINF:-1 tvg-id="ppv.land" tvg-name="24/7 COWS" tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png" group-title="24/7 Streams",24/7 COWS
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=IqlwQ2YHba1MJ-SNpTyqyQ&expires=1749624561&net=MTczLjcxLjE2NS4xMzQ%3D
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=DibmF32Q0qfBDsLFCAgoRg&expires=1749731430&net=MTczLjcxLjE2NS4xMzQ%3D
 
 #EXTINF:-1 tvg-id="24/7 channel" tvg-name="24/7 Family Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 Streams",24/7 Family Guy
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=IqlwQ2YHba1MJ-SNpTyqyQ&expires=1749624561&net=MTczLjcxLjE2NS4xMzQ%3D
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=DibmF32Q0qfBDsLFCAgoRg&expires=1749731430&net=MTczLjcxLjE2NS4xMzQ%3D
 
 #EXTINF:-1 tvg-id="24/7 channel" tvg-name="24/7 The Simpsons" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="24/7 Streams",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=IqlwQ2YHba1MJ-SNpTyqyQ&expires=1749624561&net=MTczLjcxLjE2NS4xMzQ%3D
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=DibmF32Q0qfBDsLFCAgoRg&expires=1749731430&net=MTczLjcxLjE2NS4xMzQ%3D
 
 #EXTINF:-1 tvg-id="9AM-10:30PM Pyongyang Time" tvg-name="(North) Korean Central Television" tvg-logo="https://i.imgur.com/CnphStu.png" group-title="24/7 Streams",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=IqlwQ2YHba1MJ-SNpTyqyQ&expires=1749624561&net=MTczLjcxLjE2NS4xMzQ%3D
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=DibmF32Q0qfBDsLFCAgoRg&expires=1749731430&net=MTczLjcxLjE2NS4xMzQ%3D
