@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/bryanpoulin/daddylive-m3u/refs/heads/master/epg.xml"
-#EXT-X-KEY:METHOD=AES-128,URI="https://key2.keylocking.ru/wmsxx.php?test=true|name=premium51|number=1",IV=0x30303030303030303030303068418f96,KEYFORMAT="identity"
 #EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="USA (DADDY LIVE)" ,ABC
 http://192.168.1.178:8888/https://zekonew.newkso.ru/zeko/premium51/mono.m3u8
 
