@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="WBAL-TV" tvg-name="Indianapolis Colts vs. Baltimore Ravens" tvg-logo="https://ppvs.su/assets/thumb/84dfe417efa80cabbe9cfcfc18702f4c-thumbnail.jpg" group-title="American Football",Indianapolis Colts vs. Baltimore Ravens
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGUwY2NlZWIxNWZhLTU0NWEtOWNjNC1mYWRiLWU4MjJjM2Y0/master.m3u8?md5=zACrXmi1VtE6rlmCuQJLOw&expires=1754620200&net=MTczLjcxLjE2NS4xMzQ%3D
-
-#EXTINF:-1 tvg-id="NBC 10" tvg-name="Cincinnati Bengals vs. Philadelphia Eagles" tvg-logo="https://ppvs.su/assets/thumb/f5ca3359ff819f8c0c39b0e53b24e58c-thumbnail.jpg" group-title="American Football",Cincinnati Bengals vs. Philadelphia Eagles
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmE0M2Q1ODc4NzJmLWU4MDgtOGZiNC1hMWFjLWFhNzBiYzRm/master.m3u8?md5=GDnhyFsk6yAysnL5oGSsww&expires=1754622000&net=MTczLjcxLjE2NS4xMzQ%3D
-
-#EXTINF:-1 tvg-id="KING 5" tvg-name="Las Vegas Raiders vs. Seattle Seahawks" tvg-logo="https://ppvs.su/assets/thumb/17d52bd0a14b1ed5ff1dedaef101eb75-thumbnail.jpg" group-title="American Football",Las Vegas Raiders vs. Seattle Seahawks
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NWIyOGVlMjEwMTZkLWQ2M2ItOTQyNC1hMzdhLTU2NGYwN2Ez/master.m3u8?md5=vfuAOzBptql1INLSrYDNUw&expires=1754631000&net=MTczLjcxLjE2NS4xMzQ%3D
-
 #EXTINF:-1 tvg-id="FOX 5 Atlanta" tvg-name="Detroit Lions vs. Atlanta Falcons" tvg-logo="https://ppvs.su/assets/thumb/062f534a5c31516d263993fc6f235c3b-thumbnail.jpg" group-title="American Football",Detroit Lions vs. Atlanta Falcons
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
@@ -102,77 +84,119 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGVlMTRiOGI4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Nzk3OTRmOGFkNzY1LTRjOTgtODRjNC05NGFhLWEyZDVhMDcy/master.m3u8?md5=t6wBPp0OY7VIQlmh20LJTg&expires=1754868600&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="Root Sports NW" tvg-name="Chicago White Sox vs. Seattle Mariners" tvg-logo="https://ppvs.su/assets/thumb/833391ecdad66c082178395819089cd2-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Seattle Mariners
+#EXTINF:-1 tvg-id="Apple TV+" tvg-name="Cincinnati Reds vs. Pittsburgh Pirates" tvg-logo="https://ppvs.su/assets/thumb/358f92f357c78125f51bb5ea5a3eb0d4-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. Pittsburgh Pirates
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODVmMjkyM2QzZTM1LTk2OGItM2U2NC1kNjJmLTk2ZTkzMmRh/master.m3u8?md5=RtLnY-SCBiveGbV2EuleDw&expires=1754610000&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGE0ODRhOWFhNTdhLTllYjktNTA4NC0zZTNiLTgyZGI3MGQ3/master.m3u8?md5=bL0UKC0sGQDSp8vZIQjnpQ&expires=1754705400&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="SportsNet PIT" tvg-name="Cincinnati Reds vs. Pittsburgh Pirates" tvg-logo="https://ppvs.su/assets/thumb/358f92f357c78125f51bb5ea5a3eb0d4-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. Pittsburgh Pirates
+#EXTINF:-1 tvg-id="Apple TV+" tvg-name="Houston Astros vs. New York Yankees" tvg-logo="https://ppvs.su/assets/thumb/c2d64215afe5a367d2bfc2a1fd04a238-thumbnail.jpg" group-title="Baseball",Houston Astros vs. New York Yankees
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGE0ODRhOWFhNTdhLTllYjktNTA4NC0zZTNiLTgyZGI3MGQ3/master.m3u8?md5=ikP2sghHDFtY_bthU47kig&expires=1754619000&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmQ4YjNmYzE5YTY1LTZjZDktMTEwNC05NzExLTc2M2QwNGE2/master.m3u8?md5=E40u1dpOvhAJ6VFnJ_Sa0g&expires=1754706900&net=MTczLjcxLjE2NS4xMzQ%3D
+
+#EXTINF:-1 tvg-id="MASN" tvg-name="Athletics vs. Baltimore Orioles" tvg-logo="https://ppvs.su/assets/thumb/b99ea2350c8001ee428b087b17bb02f7-thumbnail.jpg" group-title="Baseball",Athletics vs. Baltimore Orioles
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmM0NzVlNjM1NTY0LWFjZWEtZDI4NC1kZjllLWVjZDc3N2E4/master.m3u8?md5=E40u1dpOvhAJ6VFnJ_Sa0g&expires=1754706900&net=MTczLjcxLjE2NS4xMzQ%3D
+
+#EXTINF:-1 tvg-id="FanDuel SN DET" tvg-name="Los Angeles Angels vs. Detroit Tigers" tvg-logo="https://ppvs.su/assets/thumb/780d85b203b9fb071ed6882316e214ec-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Detroit Tigers
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWJmNWYzYjhjNjY2LWE1OGItZmI2NC1iNTUwLTBkNDgwNDg4/master.m3u8?md5=5x-MR5MG3PRNYyJSmt6gAg&expires=1754707200&net=MTczLjcxLjE2NS4xMzQ%3D
 
 #EXTINF:-1 tvg-id="FanDuel SN South" tvg-name="Miami Marlins vs. Atlanta Braves" tvg-logo="https://ppvs.su/assets/thumb/e976ee3dc8e09e710499aa889d730db9-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. Atlanta Braves
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWMxN2M4YWMzNTVjLWY0NjgtMTIwNC00MmY5LWZjMzJhNGU4/master.m3u8?md5=q97l5WLHNuhXbAnQfg6Zaw&expires=1754621100&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWMxN2M4YWMzNTVjLWY0NjgtMTIwNC00MmY5LWZjMzJhNGU4/master.m3u8?md5=3InTnrRwPOuNrzCpC0aM6A&expires=1754707500&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="Prime Video" tvg-name="Dream at Sky" tvg-logo="https://ppvs.su/assets/thumb/759a24a1aa7739671bbfe1b2827ced51-thumbnail.jpg" group-title="Basketball",Dream at Sky
+#EXTINF:-1 tvg-id="CHSN" tvg-name="Cleveland Guardians vs. Chicago White Sox" tvg-logo="https://ppvs.su/assets/thumb/f72325677a09d4705353425c9b750698-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Chicago White Sox
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDEzNjFmNjFkYjBiLTA5NmItNWJkNC0wMDczLTJlNTZjOWQ5/master.m3u8?md5=gigaEczUbR6ks4_-WNWMVA&expires=1754622900&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjA3N2MwNjE0OWVkLTljZDgtMzAxNC05OTA4LTdhZTgzNDk5/master.m3u8?md5=QoF0WZgZd2V60Y4rTgenpg&expires=1754709000&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="SPECSN" tvg-name="Sun at Sparks" tvg-logo="https://ppvs.su/assets/thumb/ca290efb63578bba0449fb8fc2a6de05-thumbnail.jpg" group-title="Basketball",Sun at Sparks
+#EXTINF:-1 tvg-id="CW33" tvg-name="Philadelphia Phillies vs. Texas Rangers" tvg-logo="https://ppvs.su/assets/thumb/4f2b1df961baa948cf9e0fe1cf68f8fa-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. Texas Rangers
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NWUxYzViZGIxYzU3LTUwYzktNmEzNC1kZGI1LTkzNDIxNTJk/master.m3u8?md5=RZ1Iwm9MfN7mYZTC5_NnCA&expires=1754630100&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTUxZDg4MGIwYjVhLWNjZDktY2EwNC01ODA5LTZkOTViMDE5/master.m3u8?md5=POUsXwStT7aPiVBhfOI5-g&expires=1754710500&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="Prime Video" tvg-name="Fever at Mercury" tvg-logo="https://ppvs.su/assets/thumb/91372ae6b4f96dd81d5f910e873fe602-thumbnail.jpg" group-title="Basketball",Fever at Mercury
+#EXTINF:-1 tvg-id="Twins.TV" tvg-name="Kansas City Royals vs. Minnesota Twins" tvg-logo="https://ppvs.su/assets/thumb/7a81758ef1eb41f21bbd22727ee92701-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. Minnesota Twins
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Nzc1NDg5YWIxMDZhLWUwMmItMWMwNC0wYTQ3LTM3Y2JjNGMy/master.m3u8?md5=RZ1Iwm9MfN7mYZTC5_NnCA&expires=1754630100&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjBlOGIzMjEzNzg1LTMyYzktNDA5NC00MTIyLTgxOGYyODU0/master.m3u8?md5=Jmtqk3Eu_L10u-FHECFPTA&expires=1754710800&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: KenoGO Australian Darts Masters - Day One" tvg-logo="https://ppvs.su/assets/thumb/cdb15ae4ef195347a381d4c140f1166f-thumbnail.jpg" group-title="Darts",PDC: KenoGO Australian Darts Masters - Day One
+#EXTINF:-1 tvg-id="FanDuel SN WI" tvg-name="New York Mets vs. Milwaukee Brewers" tvg-logo="https://ppvs.su/assets/thumb/f9ffe8624740f3607763699e81da5aa4-thumbnail.jpg" group-title="Baseball",New York Mets vs. Milwaukee Brewers
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTQxODI1ZWMyZWNlLTVlZDktNTQwNC05N2Q0LWZlMDZmMGU3/master.m3u8?md5=pW6imIej8ZYmnRskirM_6g&expires=1754659800&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjU5MGQ0MTJkM2FkLTJhYTgtNDVkNC1iNGEwLTgyOTZhMDJj/master.m3u8?md5=Jmtqk3Eu_L10u-FHECFPTA&expires=1754710800&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="MLS Season Pass" tvg-name="Guadalajara vs. FC Cincinnati" tvg-logo="https://ppvs.su/assets/thumb/c5d623b946f75fb8eca0e7ccf7cb5a9b-thumbnail.jpg" group-title="Football",Guadalajara vs. FC Cincinnati
+#EXTINF:-1 tvg-id="FanDuel SN MW" tvg-name="Chicago Cubs vs. St. Louis Cardinals" tvg-logo="https://ppvs.su/assets/thumb/2a4f80e97ffcc3a8f546e17bd5212b90-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. St. Louis Cardinals
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTE4MzdhMzE5YWE4LTk3NzktMjQ1NC03NGI3LWUzYWM4NDcz/master.m3u8?md5=qtmEnamTuub2amvTwdHLCQ&expires=1754617860&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Yjk4YjU1MjgzYTI5LTc0OTgtZDJhNC05ZmFmLTNkMjhkNjQ4/master.m3u8?md5=tIO0CZUQ-bLNw-1QLbR4Cg&expires=1754711100&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="FS1" tvg-name="Charlotte FC vs. Monterrey" tvg-logo="https://ppvs.su/assets/thumb/5b0ae24600537e2fee7b8fb296e52f05-thumbnail.jpg" group-title="Football",Charlotte FC vs. Monterrey
+#EXTINF:-1 tvg-id="Padres.TV" tvg-name="Boston Red Sox vs. San Diego Padres" tvg-logo="https://ppvs.su/assets/thumb/9595d300ba4ef44752d5dc227249b5c7-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. San Diego Padres
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Yzc5YTUyMGU4NjRiLTM0NTgtZmM3NC0zMTJiLTNmZWVkZDBm/master.m3u8?md5=A5F1iV73968nJohLxpPNnA&expires=1754619660&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGRiM2QyY2Q3MzU5LWUyNWEtYjY3NC1hYWIwLWEzMDM1NDU5/master.m3u8?md5=mcFVGdP2z8OShJ_FCUC5yA&expires=1754716200&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="MLS Season Pass" tvg-name="FC Juarez vs. New York Red Bulls" tvg-logo="https://ppvs.su/assets/thumb/d32ffa644368fdd34f42c300b0517076-thumbnail.jpg" group-title="Football",FC Juarez vs. New York Red Bulls
+#EXTINF:-1 tvg-id="KPNX" tvg-name="Colorado Rockies vs. Arizona Diamondbacks" tvg-logo="https://ppvs.su/assets/thumb/c796c856e90931f66530c30aa0cc7489-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Arizona Diamondbacks
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTE4MzdhMzE5YWE4LTk3NzktMjQ1NC03NGI3LWUzYWM4NDcz/master.m3u8?md5=A5F1iV73968nJohLxpPNnA&expires=1754619660&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWVhYWY3YmY4OGUzLWM0NmItZWUzNC1hZGE1LTU2NDk5ZGIy/master.m3u8?md5=mcFVGdP2z8OShJ_FCUC5yA&expires=1754716200&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="MLS Season Pass" tvg-name="Colorado Rapids vs. Cruz Azul" tvg-logo="https://ppvs.su/assets/thumb/b996e54ca7b05220bbfe27ea89ee1717-thumbnail.jpg" group-title="Football",Colorado Rapids vs. Cruz Azul
+#EXTINF:-1 tvg-id="Root Sports NW" tvg-name="Tampa Bay Rays vs. Seattle Mariners" tvg-logo="https://ppvs.su/assets/thumb/aa4a3d1ae1355182ba3814a38b49accf-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Seattle Mariners
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzQ5YzgzMzI1NGRlLTIzNjgtMDdkNC0zYTc0LWU3ZGRiOTdm/master.m3u8?md5=MR3lhvDu9DiCXuZIohsbYQ&expires=1754623260&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODVmMjkyM2QzZTM1LTk2OGItM2U2NC1kNjJmLTk2ZTkzMmRh/master.m3u8?md5=mcFVGdP2z8OShJ_FCUC5yA&expires=1754716200&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="MLS Season Pass" tvg-name="Santos vs. LA Galaxy" tvg-logo="https://ppvs.su/assets/thumb/dc9817c68ca13d5bfea80a41e9a6fa08-thumbnail.jpg" group-title="Football",Santos vs. LA Galaxy
+#EXTINF:-1 tvg-id="Sportsnet LA" tvg-name="Toronto Blue Jays vs. Los Angeles Dodgers" tvg-logo="https://ppvs.su/assets/thumb/4bdea8c642459d671a1d931d4381c07c-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Los Angeles Dodgers
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTE4MzdhMzE5YWE4LTk3NzktMjQ1NC03NGI3LWUzYWM4NDcz/master.m3u8?md5=ljBfF0sOG0D1I9FpZ6SHPg&expires=1754633160&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWUzMmMwNDYzMDRlLWI4MTktNTdhNC1kYTU5LTcwMDc3MTky/master.m3u8?md5=60AirUWWggc1eVYTD6lAIg&expires=1754718000&net=MTczLjcxLjE2NS4xMzQ%3D
+
+#EXTINF:-1 tvg-id="KNTV" tvg-name="Washington Nationals vs. San Francisco Giants" tvg-logo="https://ppvs.su/assets/thumb/e57f0bbc52b20159c076e50c08e2f521-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. San Francisco Giants
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2IyYTE4OGFmNjY5LWRlMDktYTc0NC0yMjg1LWU0MjAyNDU1/master.m3u8?md5=V_4XwETeQDIuQ7kD29zYIg&expires=1754718300&net=MTczLjcxLjE2NS4xMzQ%3D
+
+#EXTINF:-1 tvg-id="ION" tvg-name="Liberty at Wings" tvg-logo="https://ppvs.su/assets/thumb/b020adf4c8b3640f983bcf33607d911e-thumbnail.jpg" group-title="Basketball",Liberty at Wings
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Njc3MTc5MGM4NGQyLWQ1YzgtNjRiNC0yNThlLTVkMDZlYjky/master.m3u8?md5=3InTnrRwPOuNrzCpC0aM6A&expires=1754707500&net=MTczLjcxLjE2NS4xMzQ%3D
+
+#EXTINF:-1 tvg-id="ION" tvg-name="Mystics at Lynx" tvg-logo="https://ppvs.su/assets/thumb/b83d470393ac0aeec11c4933e20773e0-thumbnail.jpg" group-title="Basketball",Mystics at Lynx
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDlmNmIyZDdmOWZhLTkwOTgtZGIwNC1hODYzLTRmYjAyOTQ0/master.m3u8?md5=3InTnrRwPOuNrzCpC0aM6A&expires=1754707500&net=MTczLjcxLjE2NS4xMzQ%3D
+
+#EXTINF:-1 tvg-id="ION" tvg-name="Storm at Aces" tvg-logo="https://ppvs.su/assets/thumb/fb15b180ffaa0a5342f4a02715e9ec02-thumbnail.jpg" group-title="Basketball",Storm at Aces
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTI1NjViMTBlZDU3LTYzMmItZWIxNC1hYTRmLTA3MmE4Nzhh/master.m3u8?md5=rza16p76H_8wA1jm2Xfq4w&expires=1754716500&net=MTczLjcxLjE2NS4xMzQ%3D
+
+#EXTINF:-1 tvg-id="PDC.TV" tvg-name="PDC: KenoGO Australian Darts Masters - Day Two" tvg-logo="https://ppvs.su/assets/thumb/e7fb4914d576866c05af70c90bfa9168-thumbnail.jpg" group-title="Darts",PDC: KenoGO Australian Darts Masters - Day Two
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTZkOGY1MmRlYzY5LWVmNGItM2NmNC1mYzkxLWEyNDczMzBl/master.m3u8?md5=KImlMt3GpxEXtF60aPSh8w&expires=1754746200&net=MTczLjcxLjE2NS4xMzQ%3D
 
 #EXTINF:-1 tvg-id="Premier League" tvg-name="Liverpool vs. Bournemouth" tvg-logo="https://ppvs.su/assets/thumb/8d4339c381ef17a5ada240e7509a32c0-thumbnail.jpg" group-title="Football",Liverpool vs. Bournemouth
 #EXTVLCOPT:http-origin=https://ppvs.su
@@ -222,12 +246,6 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGM1MGQzOTRm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDZlZmJmNjllMTRiLTA0NWItNDViNC1iMmVkLTI0MWRhYTFk/master.m3u8?md5=s0ZcHgdNkdEDWRQPuv0JXw&expires=1755457200&net=MTczLjcxLjE2NS4xMzQ%3D
 
-#EXTINF:-1 tvg-id="AXS TV" tvg-name="TNA: Impact" tvg-logo="https://ppvs.su/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=uCZFK6pYgPDnNw2Ih6W9Qg&expires=1754623800&net=MTczLjcxLjE2NS4xMzQ%3D
-
 #EXTINF:-1 tvg-id="USA Network" tvg-name="WWE: Friday Night Smackdown" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
@@ -244,34 +262,34 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2MyYTFhM2Rm
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=KG4pp0KYhwt2NWlptKpAKg&expires=1754638331&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=y21h8Cpu29CYRITbEtqAtw&expires=1754708014&net=MTczLjcxLjE2NS4xMzQ%3D
 
 #EXTINF:-1 tvg-id="ppv.land" tvg-name="24/7 COWS" tvg-logo="https://ppvs.su/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=KG4pp0KYhwt2NWlptKpAKg&expires=1754638331&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=y21h8Cpu29CYRITbEtqAtw&expires=1754708014&net=MTczLjcxLjE2NS4xMzQ%3D
 
 #EXTINF:-1 tvg-id="24/7 channel" tvg-name="24/7 Family‌​‌​‌‌​‌​‌​​​‌‌‌‌​‌​​‌​‌‌​​​​‌‌​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 Streams",24/7 Family‌​‌​‌‌​‌​‌​​​‌‌‌‌​‌​​‌​‌‌​​​​‌‌​ Guy
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=KG4pp0KYhwt2NWlptKpAKg&expires=1754638331&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=y21h8Cpu29CYRITbEtqAtw&expires=1754708014&net=MTczLjcxLjE2NS4xMzQ%3D
 
 #EXTINF:-1 tvg-id="24/7 channel" tvg-name="24/7 The Simpsons" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="24/7 Streams",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=KG4pp0KYhwt2NWlptKpAKg&expires=1754638331&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=BcR_pnzdyfbCrNYedZp9Vg&expires=1754708015&net=MTczLjcxLjE2NS4xMzQ%3D
 
 #EXTINF:-1 tvg-id="9AM-10:30PM Pyongyang Time" tvg-name="(North) Korean Central Television" tvg-logo="https://ppvs.su/assets/thumb/7b1146f3a2bd19175749404e676d5127-thumbnail.jpg" group-title="24/7 Streams",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=KG4pp0KYhwt2NWlptKpAKg&expires=1754638331&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=BcR_pnzdyfbCrNYedZp9Vg&expires=1754708015&net=MTczLjcxLjE2NS4xMzQ%3D
 
 #EXTINF:-1 tvg-id="24/7 channel" tvg-name="Comedy Central" tvg-logo="https://ppvs.su/assets/thumb/8762257a0848675867f3588dbd8cf58b-thumbnail.jpg" group-title="24/7 Streams",Comedy Central
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjQzZmQzMDdhYTMwLWRiZjktNjU3NC1kMmY4LWE0NjVmZjRh/master.m3u8?md5=KG4pp0KYhwt2NWlptKpAKg&expires=1754638331&net=MTczLjcxLjE2NS4xMzQ%3D
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjQzZmQzMDdhYTMwLWRiZjktNjU3NC1kMmY4LWE0NjVmZjRh/master.m3u8?md5=BcR_pnzdyfbCrNYedZp9Vg&expires=1754708015&net=MTczLjcxLjE2NS4xMzQ%3D
