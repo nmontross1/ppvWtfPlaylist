@@ -1,0 +1,29 @@
+#EXTM3U x-tvg-url="http://192.168.1.224:9191/output/epg"
+#EXTINF:-1 tvg-id="4" tvg-name="PA | PITTSBURGH | ABC 4 WTAE" tvg-logo="http://localhost:9191/api/channels/logos/453/cache/" tvg-chno="4" group-title="USA | ABC LOCALS",PA | PITTSBURGH | ABC 4 WTAE
+http://localhost:9191/proxy/ts/stream/2a7196b9-10ad-48ed-9b3e-c76f38348cf4
+#EXTINF:-1 tvg-id="7" tvg-name="PA | PITTSBURGH | FOX 53 WPGH" tvg-logo="http://localhost:9191/api/channels/logos/480/cache/" tvg-chno="7" group-title="USA | FOX LOCALS",PA | PITTSBURGH | FOX 53 WPGH
+http://localhost:9191/proxy/ts/stream/ca2f6057-18a5-40a7-84f9-40cd14eb4601
+#EXTINF:-1 tvg-id="11" tvg-name="PA | PITTSBURG | NBC 11 WPXI" tvg-logo="http://localhost:9191/api/channels/logos/29/cache/" tvg-chno="11" group-title="USA | NBC LOCALS",PA | PITTSBURG | NBC 11 WPXI
+http://localhost:9191/proxy/ts/stream/715ed9a5-0821-4091-aebb-8eb166ab8f1c
+#EXTINF:-1 tvg-id="23" tvg-name="USA: TBS (EAST)" tvg-logo="http://localhost:9191/api/channels/logos/153/cache/" tvg-chno="23" group-title="USA | BASIC",USA: TBS (EAST)
+http://localhost:9191/proxy/ts/stream/c2c41215-c9a0-46bc-b17e-709ea30b2b78
+#EXTINF:-1 tvg-id="25" tvg-name="USA: USA NETWORK" tvg-logo="http://localhost:9191/api/channels/logos/166/cache/" tvg-chno="25" group-title="USA | BASIC",USA: USA NETWORK
+http://localhost:9191/proxy/ts/stream/01c4af6b-42ca-42da-99a0-51f6326ea9d8
+#EXTINF:-1 tvg-id="26" tvg-name="USA: NICKELODEON" tvg-logo="http://localhost:9191/api/channels/logos/485/cache/" tvg-chno="26" group-title="USA | KIDS",USA: NICKELODEON
+http://localhost:9191/proxy/ts/stream/92bfa9a4-cc2a-42f9-84bb-0635f68670ec
+#EXTINF:-1 tvg-id="27" tvg-name="USA: ESPN" tvg-logo="http://localhost:9191/api/channels/logos/24/cache/" tvg-chno="27" group-title="ESPN",USA: ESPN
+http://localhost:9191/proxy/ts/stream/fdca97e6-72df-4913-9a8c-b10c24f2d53e
+#EXTINF:-1 tvg-id="28" tvg-name="USA: ESPN 2" tvg-logo="http://localhost:9191/api/channels/logos/25/cache/" tvg-chno="28" group-title="ESPN",USA: ESPN 2
+http://localhost:9191/proxy/ts/stream/46dd895d-fe24-4921-a166-45138d3a795c
+#EXTINF:-1 tvg-id="29" tvg-name="USA: ATT SPORTSNET PITTSBURGH" tvg-logo="http://localhost:9191/api/channels/logos/494/cache/" tvg-chno="29" group-title="SPORTS",USA: ATT SPORTSNET PITTSBURGH
+http://localhost:9191/proxy/ts/stream/7a1ea662-41a9-4f88-9ab7-da7200599fce
+#EXTINF:-1 tvg-id="32" tvg-name="USA: CNN" tvg-logo="http://localhost:9191/api/channels/logos/464/cache/" tvg-chno="32" group-title="USA | NEWS/WEATHER",USA: CNN
+http://localhost:9191/proxy/ts/stream/a8012029-f372-41e5-aa55-b2350ad05d55
+#EXTINF:-1 tvg-id="33" tvg-name="USA: HLN" tvg-logo="http://localhost:9191/api/channels/logos/468/cache/" tvg-chno="33" group-title="USA | NEWS/WEATHER",USA: HLN
+http://localhost:9191/proxy/ts/stream/acfb2702-70ba-4303-9356-b7bcec4df4c7
+#EXTINF:-1 tvg-id="34" tvg-name="USA: FOX NEWS" tvg-logo="http://localhost:9191/api/channels/logos/467/cache/" tvg-chno="34" group-title="USA | NEWS/WEATHER",USA: FOX NEWS
+http://localhost:9191/proxy/ts/stream/6881d35e-bee0-4a38-ad90-e0b2efbbef2b
+#EXTINF:-1 tvg-id="35" tvg-name="USA: THE WEATHER CHANNEL" tvg-logo="http://localhost:9191/api/channels/logos/477/cache/" tvg-chno="35" group-title="USA | NEWS/WEATHER",USA: THE WEATHER CHANNEL
+http://localhost:9191/proxy/ts/stream/d4d1d403-a782-4518-a86f-99d9fd151f21
+#EXTINF:-1 tvg-id="36" tvg-name="USA: CNBC" tvg-logo="http://localhost:9191/api/channels/logos/462/cache/" tvg-chno="36" group-title="USA | NEWS/WEATHER",USA: CNBC
+http://localhost:9191/proxy/ts/stream/e68c026b-2362-4c23-909f-bc94f43da739
